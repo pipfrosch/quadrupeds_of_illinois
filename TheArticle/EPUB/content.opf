@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package unique-identifier="prng-uuid" version="3.0" xml:lang="en-US" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Quadrupeds of Illinois, Injurious and Beneficial to the Farmer</dc:title>
+    <dc:description>A natural history of Mammals in Illinois</dc:description>
+    <dc:type>Natural History</dc:type>
+    <dc:language>en-US</dc:language>
+    <dc:date>2020-08-09</dc:date>
+    <dc:creator id="author0">Robert Kennicott</dc:creator>
+    <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
+    <dc:identifier id="prng-uuid">873564bc-29f2-4967-8bac-f43f45b412b1</dc:identifier>
+    <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
+    <meta property="dcterms:modified">2020-06-28T21:59:56Z</meta>
+  </metadata>
+  <manifest>
+  </manifest>
+  <spine>
+  </spine>
+</package>
