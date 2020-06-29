@@ -51,9 +51,11 @@
     <item href="fonts/FiraMono-LICENSE.txt" id="font.FiraMono.LICENSE" media-type="text/plain"/>
     <item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>
     <item href="squirrels.xhtml" id="squirrels" media-type="application/xhtml+xml"/>
+    <item href="large-tailed-fox-squirrel.xhtml" id="ltfoxsquirrel" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="introduction"/>
     <itemref idref="squirrels"/>
+    <itemref idref="ltfoxsquirrel"/>
   </spine>
 </package>
