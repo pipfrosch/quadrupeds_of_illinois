@@ -54,6 +54,6 @@
   </manifest>
   <spine>
     <itemref idref="introduction"/>
-    <itemref idref="squirrels.xhtml"/>
+    <itemref idref="squirrels"/>
   </spine>
 </package>
