@@ -35,6 +35,7 @@ p.subtitle {
 
 ul.authoritylist {
   list-style: none;
+  padding-left: 0;
 }
 
 div#description p {
