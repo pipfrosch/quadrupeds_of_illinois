@@ -54,7 +54,7 @@ cat EPUB/css/noitalics.css >> EPUB/css/a11y.css
 zip -r -X Book.zip mimetype META-INF EPUB
 mv Book.zip Quadrupeds-Illinois-noitalics.kepub.epub
 
-sh ../tools/epubcheck.sh JoM-V001.kepub.epub
+sh ../tools/epubcheck.sh Quadrupeds-Illinois.kepub.epub
 
 if hash FuBarMace 2>/dev/null; then
   if [ ! -f ${CWD}/AceReport/noace.tmp ]; then
