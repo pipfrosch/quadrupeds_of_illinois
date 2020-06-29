@@ -29,8 +29,17 @@ h1 {
   text-align: center;
 }
 
-div#description {
-  padding-left: 1em;
+p.subtitle {
+  font-weight: bold;
+}
+
+ul.authoritylist {
+  list-style: none'
+}
+
+div#description p {
+  text-indent: -1.5em;
+  padding-left: 1.5em;
 }
 
 p.artauthor {
