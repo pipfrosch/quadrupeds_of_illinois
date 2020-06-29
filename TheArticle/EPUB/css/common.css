@@ -29,6 +29,14 @@ h1 {
   text-align: center;
 }
 
+div#description {
+  padding-left: 1em;
+}
+
+span#description.label {
+  font-weight: bold;
+}
+
 p.artauthor {
   text-align: center;
   font-size: larger;
