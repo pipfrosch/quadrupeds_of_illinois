@@ -1,0 +1,93 @@
+/* some people, including but not exclusively those with dyslexia,
+   sometimes have problems with italic fonts.
+   Append this to a11y.css and most italicized fonts will
+   use an alternative */
+
+/* default reader styles */
+
+em {
+  font-style: normal;
+  font-weight: bold;
+}
+
+em strong {
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+strong em {
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+dfn {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+/* Pipfrosch Press styles */
+
+.taxon {
+  font-family: 'ComicNeue', 'Gill Sans', sans-serif;
+  font-style: normal;
+}
+
+text.ilogo {
+  font-style: normal;
+}
+
+h2.actual {
+  font-style: normal;
+}
+
+li span.author {
+  font-style: normal;
+}
+
+.workjournal {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+.workjournal::before {
+  content: "‘";
+  text-decoration: none;
+}
+
+.workjournal::after {
+  content: "’";
+  text-decoration: none;
+}
+
+p.bib span.article span.taxon {
+  text-decoration: none;
+}
+
+p.bib span.journal {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+p.NH {
+  font-style: normal;
+}
+
+#bylaws h3 {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+#bylaws span.sect {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+dl.committee dt {
+  font-style: normal;
+}
+
+span.wiktionary {
+  font-style: normal;
+}

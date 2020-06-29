@@ -1,0 +1,179 @@
+body {
+  font-family: 'Clear Sans', -apple-system, 'Segoe UI', 'Avenir Next', 'Noto Sans', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+code {
+  font-family: 'Fira Mono', 'Andale Mono', 'Lucida Mono EF', 'Monaco', 'Noto Sans Mono', monospace;
+  font-weight: 500;
+}
+
+p {
+  widows: 1;
+  orphans: 1;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+/* for benefit of grayscale viewers */
+a:link {
+  color: purple;
+}
+a:visited {
+  color: purple;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.artauthor {
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+}
+
+p.bcname {
+  text-align: left;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.taxon {
+  font-style: italic;
+}
+
+.nomen {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.nomen sup {
+  font-style: normal;
+}
+
+.nomen sub {
+  font-style: normal;
+}
+
+.worktitle {
+  text-decoration: underline;
+}
+
+.workjournal {
+  font-style: italic;
+}
+
+abbr.italic {
+  font-style: italic;
+}
+
+.pbb {
+  page-break-before: always;
+}
+
+figure.figure {
+  padding: 0;
+  margin: 0;
+}
+
+span.captitle {
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+ol.annotated {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ol.italic li {
+  font-style: italic;
+}
+
+ol.italic li em {
+  text-decoration: underline;
+}
+
+ol.plantigrades {
+  list-style-type: none;
+}
+
+ol.members {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ol.members li {
+  padding-left: 1.5em;
+  text-indent:-1.5em;
+}
+
+li.nostyle {
+  list-style-type: none;
+}
+
+span.blockquote::before {
+  content: "—";
+  padding-left: 2em;
+}
+
+span.italic {
+  font-style: italic;
+}
+
+section.adesc {
+  padding-left: 1.5em;
+}
+
+section.adesc ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+section.adesc li {
+  padding-left: 1.5em;
+  text-indent:-1.5em;
+}
+
+span.lingual {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+span.lingual span.ch {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.6em;
+  vertical-align: 0.4em;
+  padding-left: 0.1em;
+}
+
+ul.letternav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.letternav li {
+  font-size: 1.2em;
+  float: left;
+  padding-right: 0.8em;
+}
+
+div.clear {
+  clear: both;
+}
+
+div.prewrap {
+  font-family: 'Fira Mono', 'Andale Mono', 'Lucida Mono EF', 'Monaco', 'Noto Sans Mono', monospace;
+  font-weight: 500;
+  white-space: pre-wrap;
+}

@@ -1,0 +1,49 @@
+/* font-face declarations */
+@font-face {
+font-family: 'Clear Sans';
+font-weight: normal;
+font-style: normal;
+src: url(../fonts/ClearSans-Regular-wlatin.ttf);
+}
+@font-face {
+font-family: 'Clear Sans';
+font-weight: bold;
+font-style: normal;
+src: url(../fonts/ClearSans-Bold-wlatin.ttf);
+}
+@font-face {
+font-family: 'Clear Sans';
+font-weight: normal;
+font-style: italic;
+src: url(../fonts/ClearSans-Italic-wlatin.ttf);
+}
+@font-face {
+font-family: 'Clear Sans';
+font-weight: bold;
+font-style: italic;
+src: url(../fonts/ClearSans-BoldItalic-wlatin.ttf);
+}
+@font-face {
+font-family: 'ComicNeue';
+font-weight: normal;
+font-style: normal;
+src: url(../fonts/ComicNeue-Regular-wlatin.otf);
+}
+@font-face {
+font-family: 'ComicNeue';
+font-weight: bold;
+font-style: normal;
+src: url(../fonts/ComicNeue-Bold-wlatin.otf);
+}
+@font-face {
+font-family: 'Fira Mono';
+font-weight: 500;
+font-style: normal;
+src: url(../fonts/FiraMono-Medium-wlatin.ttf);
+}
+@font-face {
+font-family: 'Fira Mono';
+font-weight: 700;
+font-style: normal;
+src: url(../fonts/FiraMono-Bold-wlatin.ttf);
+}
