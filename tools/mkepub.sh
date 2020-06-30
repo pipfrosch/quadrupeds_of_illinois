@@ -74,7 +74,7 @@ mv Quadrupeds-Illinois-noitalics.kepub.epub ${CWD}/
 
 popd
 
-if hash FuBarMace 2>/dev/null; then
+if hash ace 2>/dev/null; then
   if [ -f AceReport/.gitignore ]; then
     if [ ! -f AceReport/noace.tmp ]; then
       git commit -m "update AceReport" AceReport/report.*
