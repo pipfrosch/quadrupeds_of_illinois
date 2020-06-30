@@ -40,6 +40,11 @@ p.cpage {
   text-align: right;
 }
 
+p#forthe {
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
 hr {
   width: 25%;
   margin-left: auto;
