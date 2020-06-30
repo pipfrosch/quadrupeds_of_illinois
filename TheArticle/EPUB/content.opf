@@ -37,6 +37,7 @@
     <item href="css/common.css" id="css__common" media-type="text/css"/>
     <item href="css/noitalics.css" id="css__noitalics" media-type="text/css"/>
     <item href="css/a11y.css" id="css__a11y" media-type="text/css"/>
+    <item href="css/title.css" id="css__title" media-type="text/css"/>
   <!-- fonts -->
     <item href="fonts/ClearSans-Regular-wlatin.ttf" id="font.ClearSans.Regular" media-type="font/otf"/>
     <item href="fonts/ClearSans-Bold-wlatin.ttf" id="font.ClearSans.Bold" media-type="font/otf"/>
@@ -49,13 +50,20 @@
     <item href="fonts/FiraMono-Medium-wlatin.ttf" id="font.FiraMono.Medium" media-type="font/otf"/>
     <item href="fonts/FiraMono-Bold-wlatin.ttf" id="font.FiraMono.Bold" media-type="font/otf"/>
     <item href="fonts/FiraMono-LICENSE.txt" id="font.FiraMono.LICENSE" media-type="text/plain"/>
+  <!-- frontmatter -->
+    <item href="PreLogo.svg" id="PipfroschPressLogo" media-type="image/svg+xml"/>
+    <item href="TitlePage.xhtml" id="TitlePage" media-type="application/xhtml+xml" properties="svg"/>
+  <!-- bodymatter -->
     <item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>
     <item href="squirrels.xhtml" id="squirrels" media-type="application/xhtml+xml"/>
     <item href="large-tailed-fox-squirrel.xhtml" id="ltfoxsquirrel" media-type="application/xhtml+xml"/>
-    <!-- backmatter -->
+  <!-- backmatter -->
     <item href="donate.xhtml" id="donate" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
+    <!-- frontmatter -->
+    <itemref idref="TitlePage"/>
+    <!-- mainmatter -->
     <itemref idref="introduction"/>
     <itemref idref="squirrels"/>
     <itemref idref="ltfoxsquirrel"/>
