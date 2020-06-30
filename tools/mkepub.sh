@@ -56,7 +56,7 @@ mv Book.zip Quadrupeds-Illinois-noitalics.kepub.epub
 
 sh ../tools/epubcheck.sh Quadrupeds-Illinois.kepub.epub
 
-if hash FuBarMace 2>/dev/null; then
+if hash ace 2>/dev/null; then
   if [ ! -f ${CWD}/AceReport/noace.tmp ]; then
     ace -f -s -o AceReport Quadrupeds-Illinois.kepub.epub
     rm -rf ${CWD}/AceReport/data

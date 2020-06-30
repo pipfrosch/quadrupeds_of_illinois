@@ -1,0 +1,215 @@
+{
+  "@type": "earl:report",
+  "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
+  "dct:title": "Ace Report",
+  "dct:description": "Report on automated accessibility checks for EPUB",
+  "dct:date": "6/30/2020, 12:14:11 AM",
+  "earl:assertedBy": {
+    "@type": "earl:software",
+    "doap:name": "DAISY Ace",
+    "doap:description": "DAISY Accessibility Checker for EPUB",
+    "doap:homepage": "http://daisy.github.io/ace",
+    "doap:created": "2017-07-01",
+    "doap:release": {
+      "doap:revision": "1.1.1"
+    }
+  },
+  "outlines": {
+    "toc": "<ol xmlns=\"http://www.w3.org/1999/xhtml\">\n    <li>Title Page</li>\n    <!-- mainmatter -->\n    <li>Introduction</li>\n    <li>Squirrels<ol>\n      <li>Large-Tailed Fox-Squirrel</li>\n    </ol></li>\n    <!-- backmatter -->\n    <li>List of Plates</li>\n    <li>Donate</li>\n  </ol>",
+    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott, 1857</span></li></ul></li><li><span class=\"toc-h1\">Introduction</span><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V</span><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
+    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott, 1857</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Introduction</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
+  },
+  "data": {
+    "images": [
+      {
+        "src": "EPUB/plates/plate5a.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5a.jpg\" aria-labelledby=\"plate5a.figcaption\" />",
+        "figcaption": "Plate V.a: Large-Tailed Fox-Squirrel",
+        "location": "plate5.xhtml#epubcfi(/4/2[plate5]/4[a]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate5b.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5b.jpg\" aria-labelledby=\"plate5b.figcaption\" />",
+        "figcaption": "Plate V.b: Fox-Squirrel of Pennsylvania",
+        "location": "plate5.xhtml#epubcfi(/4/2[plate5]/6[b]/2)"
+      }
+    ]
+  },
+  "properties": {
+    "hasManifestFallbacks": false,
+    "hasBindings": false,
+    "hasSVGContentDocuments": false,
+    "hasFormElements": false,
+    "hasMathML": false,
+    "hasPageBreaks": true
+  },
+  "earl:testSubject": {
+    "url": "../Quadrupeds-Illinois.kepub.epub",
+    "metadata": {
+      "dc:title": "The Quadrupeds of Illinois, Injurious and Beneficial to the Farmer",
+      "dc:description": "A natural history of Mammals in Illinois",
+      "dc:type": "Natural History",
+      "dc:language": "en-US",
+      "dc:date": "2020-08-09",
+      "dc:creator": "Robert Kennicott",
+      "dc:contributor": [
+        "Michael A. Peters",
+        "Nicole Wilson"
+      ],
+      "dc:identifier": "873564bc-29f2-4967-8bac-f43f45b412b1",
+      "schema:accessibilitySummary": "This publication attempts to conform to WCAG 2.0 Level AA. Validation by an accessibility expert has not yet been done.",
+      "schema:accessMode": [
+        "textual",
+        "visual"
+      ],
+      "schema:accessModeSufficient": [
+        "textual,visual",
+        "textual"
+      ],
+      "schema:accessibilityFeature": "structuralNavigation",
+      "schema:accessibilityHazard": [
+        "noFlashingHazard",
+        "noSoundHazard",
+        "noMotionSimulationHazard"
+      ],
+      "dcterms:modified": "2020-06-30T07:14:07Z"
+    },
+    "links": {}
+  },
+  "a11y-metadata": {
+    "missing": [
+      "schema:accessibilityAPI",
+      "schema:accessibilityControl",
+      "a11y:certifiedBy",
+      "dcterms:conformsTo"
+    ],
+    "empty": [],
+    "present": [
+      "schema:accessMode",
+      "schema:accessibilityFeature",
+      "schema:accessibilityHazard",
+      "schema:accessibilitySummary",
+      "schema:accessModeSufficient"
+    ]
+  },
+  "assertions": [
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "fail"
+      },
+      "assertions": [
+        {
+          "@type": "earl:assertion",
+          "earl:result": {
+            "earl:outcome": "fail",
+            "dct:description": "Publications with page breaks must declare the 'dc:source' metadata"
+          },
+          "earl:assertedBy": "Ace",
+          "earl:mode": "automatic",
+          "earl:test": {
+            "earl:impact": "serious",
+            "dct:title": "epub-pagesource",
+            "dct:description": "Ensures the source of page breaks is identified",
+            "help": {
+              "url": "http://kb.daisy.org/publishing/docs/navigation/pagelist.html",
+              "dct:title": "Page Navigation",
+              "dct:description": "Add a 'dc:source' metadata property to the Package Document"
+            },
+            "rulesetTags": [
+              "EPUB"
+            ]
+          }
+        }
+      ],
+      "earl:testSubject": {
+        "url": "EPUB/content.opf",
+        "dct:title": "The Quadrupeds of Illinois, Injurious and Beneficial to the Farmer"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "TitlePage.xhtml",
+        "dct:title": "Title Page"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "introduction.xhtml",
+        "dct:title": "Introduction"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "squirrels.xhtml",
+        "dct:title": "Squirrels"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "large-tailed-fox-squirrel.xhtml",
+        "dct:title": "Large-Tailed Fox-Squirrel"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "loi.xhtml",
+        "dct:title": "List of Plates"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate5.xhtml",
+        "dct:title": "Plate 1"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "donate.xhtml",
+        "dct:title": "Donations"
+      }
+    }
+  ],
+  "earl:result": {
+    "earl:outcome": "fail"
+  }
+}
