@@ -62,6 +62,7 @@
     <item href="squirrels.xhtml" id="squirrels" media-type="application/xhtml+xml"/>
     <item href="large-tailed-fox-squirrel.xhtml" id="ltfoxsquirrel" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
+    <item href="loi.xhtml" id="loi" media-type="application/xhtml+xml"/>
     <item href="donate.xhtml" id="donate" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
@@ -72,6 +73,7 @@
     <itemref idref="squirrels"/>
     <itemref idref="ltfoxsquirrel"/>
     <!-- backmatter -->
+    <itemref idref="loi"/>
     <itemref idref="plate5"/>
     <itemref idref="donate"/>
   </spine>
