@@ -13,3 +13,8 @@ From the
 Report of the Commissioner of Patents
 on Agriculture
 in 1857
+
+Possible cover image ???
+
+https://digitalmedia.fws.gov/digital/collection/natdiglib/id/32789/rec/1
+Thirteen-lined ground squirrel - Ictidomys tridecemlineatus

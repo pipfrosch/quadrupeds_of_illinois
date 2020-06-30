@@ -15,6 +15,8 @@
     <meta property="role" refines="logo0" scheme="marc:relators">ill</meta>
     <dc:identifier id="prng-uuid">873564bc-29f2-4967-8bac-f43f45b412b1</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
+    <dc:source id="src-handle">2027/hvd.32044107329120</dc:source>
+    <meta refines="src-handle">01</meta>
     <meta property="dcterms:modified">2020-06-28T21:59:56Z</meta>
     <!-- a11y -->
     <meta property="schema:accessibilitySummary">This publication attempts to conform to WCAG 2.0 Level AA. Validation by an accessibility expert has not yet been done.</meta>
@@ -63,6 +65,7 @@
     <item href="large-tailed-fox-squirrel.xhtml" id="ltfoxsquirrel" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
     <item href="loi.xhtml" id="loi" media-type="application/xhtml+xml"/>
+    <item href="citation.xhtml" id="citation" media-type="application/xhtml+xml"/>
     <item href="donate.xhtml" id="donate" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
@@ -75,6 +78,7 @@
     <!-- backmatter -->
     <itemref idref="loi"/>
     <itemref idref="plate5"/>
+    <itemref idref="citation"/>
     <itemref idref="donate"/>
   </spine>
 </package>
