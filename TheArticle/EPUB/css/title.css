@@ -1,0 +1,46 @@
+h1 {
+  margin-bottom: 0.4em;
+}
+
+h2 {
+  margin-top: 0em;
+  text-align: center;
+  margin-bottom: 0.6em;
+}
+
+p {
+  margin-top: 0em;
+  text-align: center;
+  margin-bottom: 0em;
+}
+
+h2#subtitle {
+  margin-top: 0em;
+}
+
+text.logo {
+  font-family: 'Clear Sans', -apple-system, 'Segoe UI', 'Avenir Next', 'Noto Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+}
+
+text.ilogo {
+  font-family: 'Clear Sans', -apple-system, 'Segoe UI', 'Avenir Next', 'Noto Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p.dpage {
+  font-size: smaller;
+  text-align: left;
+}
+
+p.cpage {
+  font-size: smaller;
+  text-align: right;
+}
+
+hr {
+  width: 25%;
+  margin: auto;
+}
