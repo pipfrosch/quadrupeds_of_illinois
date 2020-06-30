@@ -42,5 +42,7 @@ p.cpage {
 
 hr {
   width: 25%;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
 }
