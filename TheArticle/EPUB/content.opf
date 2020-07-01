@@ -10,7 +10,9 @@
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <dc:contributor id="editor0">Michael A. Peters</dc:contributor>
     <meta property="role" refines="editor0" scheme="marc:relators">edt</meta>
-    <meta property="role" refines="editor0" scheme="marc:relators">prg</meta>
+    <meta property="role" refines="editor0" scheme="marc:relators">prg</meta>    
+    <dc:contributor id="cover0">Grayson Smith (USFWS)</dc:contributor>
+    <meta property="role" refines="cover0" scheme="marc:relators">pht</meta>
     <dc:contributor id="logo0">Nicole Wilson</dc:contributor>
     <meta property="role" refines="logo0" scheme="marc:relators">ill</meta>
     <dc:identifier id="prng-uuid">873564bc-29f2-4967-8bac-f43f45b412b1</dc:identifier>
@@ -31,6 +33,7 @@
     <!-- end a11y -->
   </metadata>
   <manifest>
+    <item href="CoverImage.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
     <item href="ToC.xhtml" id="ToC" media-type="application/xhtml+xml" properties="nav"/>
   <!-- PLS -->
     <item href="pronunciation.pls" id="pls-lexicon" media-type="application/pls+xml"/>

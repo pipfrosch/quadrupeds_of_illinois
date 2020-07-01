@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1"
+     width="1072"
+     height="1448"
+     viewBox="0 0 1072 1448">
+
+<!-- dcdcdc gainsboro -->
+<path fill="cornsilk" stroke="none" d="M0,0
+  l1072,0
+  l0,1448
+  l-1072,0z
+"/>
+
+<g id="squirrel">
+<image xlink:href="Thirteen-lined-cropped.jpg" height="592" width="858" x="107" y="325"/>
+</g>
+
+<text x="536" y="85" font-size="90" text-anchor="middle" dominant-baseline="central" fill="black" font-weight="bold" font-family="Helvetica">The Quadrupeds</text>
+<text x="536" y="168" font-size="70" text-anchor="middle" dominant-baseline="central" fill="black" font-weight="bold" font-family="Helvetica">of</text>
+<text x="536" y="255" font-size="90" text-anchor="middle" dominant-baseline="central" fill="black" font-weight="bold" font-family="Helvetica">Illinois</text>
+
+<text x="536" y="990" font-size="70" text-anchor="middle" dominant-baseline="central" fill="black" font-family="Helvetica">Injurious and Beneficial</text>
+<text x="536" y="1078" font-size="70" text-anchor="middle" dominant-baseline="central" fill="black" font-family="Helvetica">to the Farmer</text>
+
+<text x="536" y="1210" font-size="58" text-anchor="middle" dominant-baseline="central" fill="black" font-style="italic" font-family="Philosopher">by Robert Kennicot, 1857</text>
+
+<!-- path fill="none" stroke="black" d="M256,1300 l0,100"/ -->
+<!-- path fill="none" stroke="black" d="M816,1300 l0,100"/ -->
+
+<image xlink:href="MonoLogo.svg" height="82.7" width="120" x="233" y="1315"/>
+<text x="559" y="1365" font-size="45" text-anchor="middle" dominant-baseline="central" fill="black" font-style="italic" font-family="Helvetica">ePub by Pipfrosch Press</text>
+</svg>
