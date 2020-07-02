@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "6/30/2020, 12:15:54 AM",
+  "dct:date": "7/2/2020, 2:22:11 AM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -15,9 +15,9 @@
     }
   },
   "outlines": {
-    "toc": "<ol xmlns=\"http://www.w3.org/1999/xhtml\">\n    <li>Title Page</li>\n    <!-- mainmatter -->\n    <li>Introduction</li>\n    <li>Squirrels<ol>\n      <li>Large-Tailed Fox-Squirrel</li>\n    </ol></li>\n    <!-- backmatter -->\n    <li>List of Plates</li>\n    <li>Donate</li>\n  </ol>",
-    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott, 1857</span></li></ul></li><li><span class=\"toc-h1\">Introduction</span><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V</span><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
-    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott, 1857</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Introduction</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
+    "toc": "<ol xmlns=\"http://www.w3.org/1999/xhtml\">\n    <li>Title Page</li>\n    <!-- mainmatter -->\n    <li>Introduction</li>\n    <li>Squirrels</li>\n    <li>Large-Tailed Fox-Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Migratory Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Black-Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <!-- backmatter -->\n    <li>List of Plates</li>\n    <li>Standard Citation</li>\n    <li>Donate</li>\n  </ol>",
+    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott, 1857</span><li><span class=\"toc-h2\">Report of the Commissioner of Patents</span><li><span class=\"toc-h2\">Agriculture</span></li></ul></li><li><span class=\"toc-h1\">Introduction</span><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Migratory, or Common Grey and Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V</span><li><span class=\"toc-h1\">Plate VI</span><li><span class=\"toc-h1\">Standard Citation</span><ul><li><span class=\"toc-h2\">APA Citation</span><li><span class=\"toc-h2\">MLA Citation</span><li><span class=\"toc-h2\">Chicago Style Citation</span></li></ul></li><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
+    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott, 1857</li><li>Report of the Commissioner of Patents</li><li>Agriculture</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Introduction<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel<ol><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Migratory, or Common Grey and Black-Squirrel<ol><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Black-Squirrel<ol><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Standard Citation<ol><li>APA Citation</li><li>MLA Citation</li><li>Chicago Style Citation</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
   },
   "data": {
     "images": [
@@ -36,6 +36,22 @@
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5b.jpg\" aria-labelledby=\"plate5b.figcaption\" />",
         "figcaption": "Plate V.b: Fox-Squirrel of Pennsylvania",
         "location": "plate5.xhtml#epubcfi(/4/2[plate5]/6[b]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate6a.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6a.jpg\" aria-labelledby=\"plate6a.figcaption\" />",
+        "figcaption": "Plate VI.a: Migratory, or Common Grey and Black Squirrel",
+        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/4[a]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate6b.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6b.jpg\" aria-labelledby=\"plate6b.figcaption\" />",
+        "figcaption": "Plate VI.b: Black Squirrel",
+        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/6[b]/2)"
       }
     ]
   },
@@ -58,9 +74,11 @@
       "dc:creator": "Robert Kennicott",
       "dc:contributor": [
         "Michael A. Peters",
+        "Grayson Smith (USFWS)",
         "Nicole Wilson"
       ],
       "dc:identifier": "873564bc-29f2-4967-8bac-f43f45b412b1",
+      "dc:source": "2027/hvd.32044107329120",
       "schema:accessibilitySummary": "This publication attempts to conform to WCAG 2.0 Level AA. Validation by an accessibility expert has not yet been done.",
       "schema:accessMode": [
         "textual",
@@ -76,7 +94,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-06-30T07:15:50Z"
+      "dcterms:modified": "2020-07-02T09:22:07Z"
     },
     "links": {}
   },
@@ -100,32 +118,9 @@
     {
       "@type": "earl:assertion",
       "earl:result": {
-        "earl:outcome": "fail"
+        "earl:outcome": "pass"
       },
-      "assertions": [
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "Publications with page breaks must declare the 'dc:source' metadata"
-          },
-          "earl:assertedBy": "Ace",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "serious",
-            "dct:title": "epub-pagesource",
-            "dct:description": "Ensures the source of page breaks is identified",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/docs/navigation/pagelist.html",
-              "dct:title": "Page Navigation",
-              "dct:description": "Add a 'dc:source' metadata property to the Package Document"
-            },
-            "rulesetTags": [
-              "EPUB"
-            ]
-          }
-        }
-      ],
+      "assertions": [],
       "earl:testSubject": {
         "url": "EPUB/content.opf",
         "dct:title": "The Quadrupeds of Illinois, Injurious and Beneficial to the Farmer"
@@ -182,6 +177,28 @@
       },
       "assertions": [],
       "earl:testSubject": {
+        "url": "migratory-squirrel.xhtml",
+        "dct:title": "Migratory, or Common Grey and Black-Squirrel"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "black-squirrel.xhtml",
+        "dct:title": "Black-Squirrel"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
         "url": "loi.xhtml",
         "dct:title": "List of Plates"
       }
@@ -194,7 +211,29 @@
       "assertions": [],
       "earl:testSubject": {
         "url": "plate5.xhtml",
-        "dct:title": "Plate 1"
+        "dct:title": "Plate 5"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate6.xhtml",
+        "dct:title": "Plate 6"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "citation.xhtml",
+        "dct:title": "Standard Citation"
       }
     },
     {
@@ -210,6 +249,6 @@
     }
   ],
   "earl:result": {
-    "earl:outcome": "fail"
+    "earl:outcome": "pass"
   }
 }
