@@ -38,9 +38,14 @@ ul.authoritylist {
   padding-left: 0;
 }
 
-div#description p {
+section#description p {
   text-indent: -1.5em;
   padding-left: 1.5em;
+}
+
+hr.half {
+  width: 50%;
+  margin: auto;
 }
 
 span.vocalization {
