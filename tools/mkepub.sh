@@ -33,14 +33,6 @@ function getfonts {
 
 CWD=`pwd`
 
-#cd TheArticle/EPUB/fonts
-#for font in ClearSans-BoldItalic-wlatin.ttf ClearSans-Bold-wlatin.ttf ClearSans-Italic-wlatin.ttf ClearSans-Regular-wlatin.ttf ComicNeue-Bold-wlatin.otf ComicNeue-#Regular-wlatin.otf FiraMono-Medium-wlatin.ttf FiraMono-Bold-wlatin.ttf; do
-#  if [ ! -f ${font} ]; then
-#    curl -O https://misc.pipfrosch.com/ePubFonts/${font}
-#  fi
-#done
-#cd ../../..
-
 TMP=`mktemp -d /tmp/QUADILL.XXXXXXXX`
 
 pushd ${TMP}
@@ -62,19 +54,6 @@ cd ../..
 # generate OPDS goes here
 
 rm -f ${CWD}/opds/epub-noitalics.json
-
-#cd TheArticle/EPUB/fonts
-#rm -f .gitignore
-#for font in ClearSans-BoldItalic-wlatin.ttf ClearSans-Bold-wlatin.ttf ClearSans-Italic-wlatin.ttf ClearSans-Regular-wlatin.ttf ComicNeue-Bold-wlatin.otf ComicNeue-#Regular-wlatin.otf FiraMono-Medium-wlatin.ttf FiraMono-Bold-wlatin.ttf; do
-#  cp -p ${CWD}/TheArticle/EPUB/fonts/${font} .
-#done
-#sha256sum -c fonts.sha256.txt
-#if [ $? -ne 0 ]; then
-#  echo "Font checksum problem"
-#  exit 1;
-#fi
-#rm -f fonts.sha256.txt
-#cd ../..
 
 cd TheArticle
 
