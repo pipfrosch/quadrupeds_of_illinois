@@ -75,6 +75,7 @@
     <item href="migratory-squirrel.xhtml" id="mgsquirrel" media-type="application/xhtml+xml"/>
     <item href="black-squirrel.xhtml" id="blksquirrel" media-type="application/xhtml+xml"/>
     <item href="southern-grey-squirrel.xhtml" id="sgsquirrel" media-type="application/xhtml+xml"/>
+    <item href="little-red-squirrel.xhtml" id="lredsquirrel" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
     <item href="loi.xhtml" id="loi" media-type="application/xhtml+xml"/>
     <item href="citation.xhtml" id="citation" media-type="application/xhtml+xml"/>
@@ -90,6 +91,7 @@
     <itemref idref="mgsquirrel"/>
     <itemref idref="blksquirrel"/>
     <itemref idref="sgsquirrel"/>
+    <itemref idref="lredsquirrel"/>
     <!-- backmatter -->
     <itemref idref="loi"/>
     <itemref idref="plate5"/>
