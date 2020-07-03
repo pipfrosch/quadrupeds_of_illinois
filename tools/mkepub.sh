@@ -27,7 +27,7 @@ function getfonts {
     echo "Font checksum problem"
     exit 1;
   fi
-  rm -f fonts.sha256.txt
+  rm -f fonts.sha256.txt .gitignore
   popd
 }
 
