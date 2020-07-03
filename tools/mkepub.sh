@@ -1,14 +1,45 @@
 #!/bin/bash
 
+function getfonts {
+  GITDIR="$1"
+  EPUBDIR="$2"
+  pushd ${GITDIR}
+  if [ ! -f fonts.sha256.txt ]; then
+    echo "No fonts checksum"
+    exit 1
+  fi
+  cat fonts.sha256.txt |cut -d' ' -f3 |while read font; do |while read fontfile; do
+    if [ ! -f ${fontfile} ]; then
+      curl -O https://misc.pipfrosch.com/ePubFonts/${fontfile}
+    fi
+  done
+  popd
+  pushd ${EPUBDIR}
+  if [ ! -f fonts.sha256.txt ]; then
+    echo "No fonts checksum"
+    exit 1
+  fi
+  cat fonts.sha256.txt |cut -d' ' -f3 |while read font; do |while read fontfile; do
+    cp -p ${GITDIR}/${fontfile} .
+  done
+  sha256sum -c fonts.sha256.txt
+  if [ $? -ne 0 ]; then
+    echo "Font checksum problem"
+    exit 1;
+  fi
+  rm -f fonts.sha256.txt
+  popd
+}
+
 CWD=`pwd`
 
-cd TheArticle/EPUB/fonts
-for font in ClearSans-BoldItalic-wlatin.ttf ClearSans-Bold-wlatin.ttf ClearSans-Italic-wlatin.ttf ClearSans-Regular-wlatin.ttf ComicNeue-Bold-wlatin.otf ComicNeue-Regular-wlatin.otf FiraMono-Medium-wlatin.ttf FiraMono-Bold-wlatin.ttf; do
-  if [ ! -f ${font} ]; then
-    curl -O https://misc.pipfrosch.com/ePubFonts/${font}
-  fi
-done
-cd ../../..
+#cd TheArticle/EPUB/fonts
+#for font in ClearSans-BoldItalic-wlatin.ttf ClearSans-Bold-wlatin.ttf ClearSans-Italic-wlatin.ttf ClearSans-Regular-wlatin.ttf ComicNeue-Bold-wlatin.otf ComicNeue-#Regular-wlatin.otf FiraMono-Medium-wlatin.ttf FiraMono-Bold-wlatin.ttf; do
+#  if [ ! -f ${font} ]; then
+#    curl -O https://misc.pipfrosch.com/ePubFonts/${font}
+#  fi
+#done
+#cd ../../..
 
 TMP=`mktemp -d /tmp/QUADILL.XXXXXXXX`
 
@@ -18,6 +49,8 @@ git clone https://github.com/pipfrosch/quadrupeds_of_illinois.git
 
 cd quadrupeds_of_illinois
 # switch to branch goes here
+
+getfonts ${CWD}/TheArticle/EPUB/fonts ${TMP}/quadrupeds_of_illinois/TheArticle/EPUB/fonts
 
 cd TheArticle/EPUB
 
@@ -30,18 +63,20 @@ cd ../..
 
 rm -f ${CWD}/opds/epub-noitalics.json
 
-cd TheArticle/EPUB/fonts
-rm -f .gitignore
-for font in ClearSans-BoldItalic-wlatin.ttf ClearSans-Bold-wlatin.ttf ClearSans-Italic-wlatin.ttf ClearSans-Regular-wlatin.ttf ComicNeue-Bold-wlatin.otf ComicNeue-Regular-wlatin.otf FiraMono-Medium-wlatin.ttf FiraMono-Bold-wlatin.ttf; do
-  cp -p ${CWD}/TheArticle/EPUB/fonts/${font} .
-done
-sha256sum -c fonts.sha256.txt
-if [ $? -ne 0 ]; then
-  echo "Font checksum problem"
-  exit 1;
-fi
-rm -f fonts.sha256.txt
-cd ../..
+#cd TheArticle/EPUB/fonts
+#rm -f .gitignore
+#for font in ClearSans-BoldItalic-wlatin.ttf ClearSans-Bold-wlatin.ttf ClearSans-Italic-wlatin.ttf ClearSans-Regular-wlatin.ttf ComicNeue-Bold-wlatin.otf ComicNeue-#Regular-wlatin.otf FiraMono-Medium-wlatin.ttf FiraMono-Bold-wlatin.ttf; do
+#  cp -p ${CWD}/TheArticle/EPUB/fonts/${font} .
+#done
+#sha256sum -c fonts.sha256.txt
+#if [ $? -ne 0 ]; then
+#  echo "Font checksum problem"
+#  exit 1;
+#fi
+#rm -f fonts.sha256.txt
+#cd ../..
+
+cd TheArticle
 
 echo -n application/epub+zip >mimetype
 
