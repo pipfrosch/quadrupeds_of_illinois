@@ -19,7 +19,7 @@ function getfonts {
     echo "No fonts checksum"
     exit 1
   fi
-  cat fonts.sha256.txt |cut -d' ' -f3 |while read font; do |while read fontfile; do
+  cat fonts.sha256.txt |cut -d' ' -f3 |while read fontfile; do
     cp -p ${GITDIR}/${fontfile} .
   done
   sha256sum -c fonts.sha256.txt
