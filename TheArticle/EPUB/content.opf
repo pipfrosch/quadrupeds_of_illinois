@@ -69,6 +69,10 @@
     <item href="plates/plate8a.jpg" id="plate8a__jpeg" media-type="image/jpeg"/>
     <item href="plates/plate8b.jpg" id="plate8b__jpeg" media-type="image/jpeg"/>
     <item href="plate8.xhtml" id="plate8" media-type="application/xhtml+xml"/>
+    
+    <item href="plates/plate14a.jpg" id="plate14a__jpeg" media-type="image/jpeg"/>
+    <item href="plates/plate14b.jpg" id="plate14b__jpeg" media-type="image/jpeg"/>
+    <item href="plate8.xhtml" id="plate8" media-type="application/xhtml+xml"/>
   <!-- frontmatter -->
     <item href="PreLogo.svg" id="PipfroschPressLogo" media-type="image/svg+xml"/>
     <item href="TitlePage.xhtml" id="TitlePage" media-type="application/xhtml+xml" properties="svg"/>
@@ -83,6 +87,8 @@
     <item href="common-flying-squirrel.xhtml" id="cflysquirrel" media-type="application/xhtml+xml"/>
     <item href="chipmuck.xhtml" id="chipmuck" media-type="application/xhtml+xml"/>
     <item href="spermophiles.xhtml" id="spermophiles" media-type="application/xhtml+xml"/>
+    
+    <item href="mus.xhtml" id="mus" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
     <item href="loi.xhtml" id="loi" media-type="application/xhtml+xml"/>
     <item href="citation.xhtml" id="citation" media-type="application/xhtml+xml"/>
@@ -102,12 +108,16 @@
     <itemref idref="cflysquirrel"/>
     <itemref idref="chipmuck"/>
     <itemref idref="spermophiles"/>
+    
+    <itemref idref="mus"/>
     <!-- backmatter -->
     <itemref idref="loi"/>
     <itemref idref="plate5"/>
     <itemref idref="plate6"/>
     <itemref idref="plate7"/>
     <itemref idref="plate8"/>
+    
+    <itemref idref="plate14"/>
     <itemref idref="citation"/>
     <itemref idref="donate"/>
   </spine>
