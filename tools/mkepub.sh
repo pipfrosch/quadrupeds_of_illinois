@@ -50,8 +50,17 @@ python3 ../../tools/updateTimestamp.py content.opf
 cd ../..
 
 # generate atom file goes here
+pushd ${CWD}/opds
+cat epub.json |sed -e s?"\.atom"?"-noitalics.atom"?g \
+              |sed -e s?"\.kepub.epub"?"-noitalics.kepub.epub"?g \
+              > epub-noitalics.json
+popd
 
-# generate OPDS goes here
+python3 tools/generateOPDS.py TheArticle/EPUB/content.opf ${CWD}/opds/epub.json
+python3 tools/generateOPDS.py TheArticle/EPUB/content.opf ${CWD}/opds/epub-noitalics.json
+
+cat opds/Quadrupeds-Illinois.atom > ${CWD}/opds/Quadrupeds-Illinois.atom
+cat opds/Quadrupeds-Illinois-noitalics.atom > ${CWD}/opds/Quadrupeds-Illinois-noitalics.atom
 
 rm -f ${CWD}/opds/epub-noitalics.json
 

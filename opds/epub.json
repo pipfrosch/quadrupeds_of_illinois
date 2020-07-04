@@ -1,0 +1,49 @@
+{
+  "output" : "opds/Mammals/Quadrupeds-Illinois.atom",
+  "namespaces" : {
+    "dc"   : "http://purl.org/dc/terms/"
+  },
+  "id"     : "urn:uuid:540b0331-dae2-47a3-85f1-aa32967a524e",
+  "authors" : [
+    {
+      "name" : "Robert Kennicott",
+      "uri"  : "https://en.wikipedia.org/wiki/Robert_Kennicott"
+    }
+  ],
+  "issued"   : "1857",
+  "summary"  : "A natural history of small rodents found in the state of Illinois, and their impact on farming. Updated taxonomy notes have been added.",
+  "links" : [
+    {
+      "rel"   : "alternate",
+      "href"  : "https://pipfrosch.com/mammals/kennicott-1857",
+      "type"  : "text/html",
+      "title" : "View at Pipfrosch Press Website"
+    },
+    {
+      "rel"   : "http://opds-spec.org/image",
+      "href"  : "/Mammals/Quadrupeds-Illinois.cover.jpg",
+      "type"  : "image/jpeg"
+    },
+    {
+      "rel"   : "http://opds-spec.org/image/thumbnail",
+      "href"  : "/Mammals/Quadrupeds-Illinois.thumbnail.jpg",
+      "type"  : "image/jpeg"
+    },
+    {
+      "rel"   : "self",
+      "href"  : "/Mammals/Quadrupeds-Illinois.atom",
+      "type"  : "application/atom+xml;type=entry;profile=opds-catalog" 
+    },
+    {
+      "rel"   : "http://opds-spec.org/acquisition",
+      "href"  : "https://epub.pipfrosch.com/Mammals/Quadrupeds-Illinois.kepub.epub",
+      "type"  : "application/epub+zip"
+    },
+    {
+      "rel"   : "http://www.feedbooks.com/opds/same_author",
+      "href"  : "/Authors/Kennicutt_Robert.atom",
+      "type"  : "application/atom+xml;profile=opds-catalog;kind=acquisition",
+      "title" : "All works at Pipfrosch Press by Robert Kennicutt"
+    }
+  ]
+}
