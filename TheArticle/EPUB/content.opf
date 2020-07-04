@@ -65,6 +65,9 @@
     <item href="plates/plate7a.jpg" id="plate7a__jpeg" media-type="image/jpeg"/>
     <item href="plates/plate7b.jpg" id="plate7b__jpeg" media-type="image/jpeg"/>
     <item href="plate7.xhtml" id="plate7" media-type="application/xhtml+xml"/>
+    <item href="plates/plate8a.jpg" id="plate8a__jpeg" media-type="image/jpeg"/>
+    <item href="plates/plate8b.jpg" id="plate8b__jpeg" media-type="image/jpeg"/>
+    <item href="plate8.xhtml" id="plate8" media-type="application/xhtml+xml"/>
   <!-- frontmatter -->
     <item href="PreLogo.svg" id="PipfroschPressLogo" media-type="image/svg+xml"/>
     <item href="TitlePage.xhtml" id="TitlePage" media-type="application/xhtml+xml" properties="svg"/>
@@ -99,6 +102,7 @@
     <itemref idref="plate5"/>
     <itemref idref="plate6"/>
     <itemref idref="plate7"/>
+    <itemref idref="plate8"/>
     <itemref idref="citation"/>
     <itemref idref="donate"/>
   </spine>
