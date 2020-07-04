@@ -80,6 +80,7 @@
     <item href="southern-grey-squirrel.xhtml" id="sgsquirrel" media-type="application/xhtml+xml"/>
     <item href="little-red-squirrel.xhtml" id="lredsquirrel" media-type="application/xhtml+xml"/>
     <item href="common-flying-squirrel.xhtml" id="cflysquirrel" media-type="application/xhtml+xml"/>
+    <item href="chipmuck.xhtml" id="chipmuck" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
     <item href="loi.xhtml" id="loi" media-type="application/xhtml+xml"/>
     <item href="citation.xhtml" id="citation" media-type="application/xhtml+xml"/>
@@ -97,6 +98,7 @@
     <itemref idref="sgsquirrel"/>
     <itemref idref="lredsquirrel"/>
     <itemref idref="cflysquirrel"/>
+    <itemref idref="chipmuck"/>
     <!-- backmatter -->
     <itemref idref="loi"/>
     <itemref idref="plate5"/>
