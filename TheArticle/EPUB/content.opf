@@ -16,6 +16,8 @@
     <meta property="role" refines="cover0" scheme="marc:relators">pht</meta>
     <dc:contributor id="logo0">Nicole Wilson</dc:contributor>
     <meta property="role" refines="logo0" scheme="marc:relators">ill</meta>
+    <dc:contributor id="photo3">Brett Billings (USFWS)</dc:contributor>
+    <meta property="role" refines="photo3" scheme="marc:relators">pht</meta>
     <dc:identifier id="prng-uuid">873564bc-29f2-4967-8bac-f43f45b412b1</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
     <dc:source id="src-handle">2027/hvd.32044107329120</dc:source>
@@ -87,6 +89,9 @@
     <item href="plates/plate14a.jpg" id="plate14a__jpeg" media-type="image/jpeg"/>
     <item href="plates/plate14b.jpg" id="plate14b__jpeg" media-type="image/jpeg"/>
     <item href="plate14.xhtml" id="plate14" media-type="application/xhtml+xml"/>
+  <!-- photos -->
+    <item href="photos/natdiglib_16732_cropped.jpg" id="photo3__jpeg" media-type="image/jpeg"/>
+    <item href="photo3.xhtml" id="photo3" media-type="application/xhtml+xml"/>
   <!-- frontmatter -->
     <item href="PreLogo.svg" id="PipfroschPressLogo" media-type="image/svg+xml"/>
     <item href="TitlePage.xhtml" id="TitlePage" media-type="application/xhtml+xml" properties="svg"/>
@@ -107,6 +112,7 @@
   <!-- backmatter -->
     <item href="loi.xhtml" id="loi" media-type="application/xhtml+xml"/>
     <item href="citation.xhtml" id="citation" media-type="application/xhtml+xml"/>
+    <item href="lop.xhtml" id="lop" media-type="application/xhtml+xml"/>
     <item href="donate.xhtml" id="donate" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
@@ -139,6 +145,8 @@
     <itemref idref="plate13"/>
     <itemref idref="plate14"/>
     <itemref idref="citation"/>
+    <itemref idref="lop"/>
+    <itemref idref="photo3"/>
     <itemref idref="donate"/>
   </spine>
 </package>
