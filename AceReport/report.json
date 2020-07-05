@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "7/4/2020, 2:44:19 AM",
+  "dct:date": "7/4/2020, 5:27:05 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -15,9 +15,9 @@
     }
   },
   "outlines": {
-    "toc": "<ol xmlns=\"http://www.w3.org/1999/xhtml\">\n    <li>Title Page</li>\n    <!-- mainmatter -->\n    <li>Introduction</li>\n    <li>Squirrels</li>\n    <li>Large-Tailed Fox Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Migratory Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Black Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Carolina Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Little Red Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Common Flying Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Chipmuck</li>\n    <!-- backmatter -->\n    <li>List of Plates</li>\n    <li>Standard Citation</li>\n    <li>Donate</li>\n  </ol>",
-    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott, 1857</span><li><span class=\"toc-h2\">Report of the Commissioner of Patents</span><li><span class=\"toc-h2\">Agriculture</span></li></ul></li><li><span class=\"toc-h1\">Introduction</span><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Migratory, or Common Grey and Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Southern Grey or Carolina Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Little Red-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Common Flying Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Striped Ground Squirrel, or Chipmuck</span><ul><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V</span><li><span class=\"toc-h1\">Plate VI</span><li><span class=\"toc-h1\">Plate VII</span><li><span class=\"toc-h1\">Plate VIII</span><li><span class=\"toc-h1\">Standard Citation</span><ul><li><span class=\"toc-h2\">APA Citation</span><li><span class=\"toc-h2\">MLA Citation</span><li><span class=\"toc-h2\">Chicago Style Citation</span></li></ul></li><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
-    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott, 1857</li><li>Report of the Commissioner of Patents</li><li>Agriculture</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Introduction<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Migratory, or Common Grey and Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Southern Grey or Carolina Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Little Red-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Common Flying Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped Ground Squirrel, or Chipmuck<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Standard Citation<ol><li>APA Citation</li><li>MLA Citation</li><li>Chicago Style Citation</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
+    "toc": "<ol xmlns=\"http://www.w3.org/1999/xhtml\">\n    <li>Title Page</li>\n    <!-- mainmatter -->\n    <li>Introduction</li>\n    <li>Squirrels</li>\n    <li>Large-Tailed Fox Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Migratory Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Black Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Carolina Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Little Red Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Common Flying Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Chipmuck<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Prairie Squirrels</li>\n    \n    \n    <li>Old-World Rodents<ol>\n      <li>Common House-Mouse</li>\n      <li>Brown Rat</li>\n      <li>Black Rat</li>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <!-- backmatter -->\n    <li>List of Plates</li>\n    <li>Standard Citation</li>\n    <li>Donate</li>\n  </ol>",
+    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott, 1857</span><li><span class=\"toc-h2\">Report of the Commissioner of Patents</span><li><span class=\"toc-h2\">Agriculture</span></li></ul></li><li><span class=\"toc-h1\">Introduction</span><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Migratory, or Common Grey and Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Southern Grey or Carolina Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Little Red-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Common Flying Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Striped Ground Squirrel, or Chipmuck</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie Squirrels, or Spermophiles</span><li><span class=\"toc-h1\">True Rats and Mice</span><ul><li><span class=\"toc-h2\">Common House-Mouse</span><li><span class=\"toc-h2\">Brown-Rat</span><li><span class=\"toc-h2\">Black-Rat</span><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V</span><li><span class=\"toc-h1\">Plate VI</span><li><span class=\"toc-h1\">Plate VII</span><li><span class=\"toc-h1\">Plate VIII</span><li><span class=\"toc-h1\">Plate IX</span><li><span class=\"toc-h1\">Plate X</span><li><span class=\"toc-h1\">Plate XI</span><li><span class=\"toc-h1\">Plate XII</span><li><span class=\"toc-h1\">Plate XIII</span><li><span class=\"toc-h1\">Plate XIV</span><li><span class=\"toc-h1\">Standard Citation</span><ul><li><span class=\"toc-h2\">APA Citation</span><li><span class=\"toc-h2\">MLA Citation</span><li><span class=\"toc-h2\">Chicago Style Citation</span></li></ul></li><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
+    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott, 1857</li><li>Report of the Commissioner of Patents</li><li>Agriculture</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Introduction<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Migratory, or Common Grey and Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Southern Grey or Carolina Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Little Red-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Common Flying Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped Ground Squirrel, or Chipmuck<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie Squirrels, or Spermophiles</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>True Rats and Mice<ol><li>Common House-Mouse</li><li>Brown-Rat</li><li>Black-Rat</li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate IX</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate X</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIV</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Standard Citation<ol><li>APA Citation</li><li>MLA Citation</li><li>Chicago Style Citation</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
   },
   "data": {
     "images": [
@@ -27,7 +27,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5a.jpg\" aria-labelledby=\"plate5a.figcaption\" />",
         "figcaption": "Plate V.a: Large-Tailed Fox-Squirrel",
-        "location": "plate5.xhtml#epubcfi(/4/2[plate5]/4[a]/2)"
+        "location": "plate5.xhtml#epubcfi(/4/2[plate5]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate5b.jpg",
@@ -35,7 +35,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5b.jpg\" aria-labelledby=\"plate5b.figcaption\" />",
         "figcaption": "Plate V.b: Fox-Squirrel of Pennsylvania",
-        "location": "plate5.xhtml#epubcfi(/4/2[plate5]/6[b]/2)"
+        "location": "plate5.xhtml#epubcfi(/4/2[plate5]/8[b]/2)"
       },
       {
         "src": "EPUB/plates/plate6a.jpg",
@@ -43,7 +43,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6a.jpg\" aria-labelledby=\"plate6a.figcaption\" />",
         "figcaption": "Plate VI.a: Migratory, or Common Grey and Black Squirrel",
-        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/4[a]/2)"
+        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate6b.jpg",
@@ -51,7 +51,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6b.jpg\" aria-labelledby=\"plate6b.figcaption\" />",
         "figcaption": "Plate VI.b: Black Squirrel",
-        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/6[b]/2)"
+        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/8[b]/2)"
       },
       {
         "src": "EPUB/plates/plate7a.jpg",
@@ -59,7 +59,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7a.jpg\" aria-labelledby=\"plate7a.figcaption\" />",
         "figcaption": "Plate VII.a: Little Red-Squirrel",
-        "location": "plate7.xhtml#epubcfi(/4/2[plate7]/4[a]/2)"
+        "location": "plate7.xhtml#epubcfi(/4/2[plate7]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate7b.jpg",
@@ -67,7 +67,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7b.jpg\" aria-labelledby=\"plate7b.figcaption\" />",
         "figcaption": "Plate VII.b: Common Flying Squirrel",
-        "location": "plate7.xhtml#epubcfi(/4/2[plate7]/6[b]/2)"
+        "location": "plate7.xhtml#epubcfi(/4/2[plate7]/8[b]/2)"
       },
       {
         "src": "EPUB/plates/plate8a.jpg",
@@ -75,7 +75,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8a.jpg\" aria-labelledby=\"plate8a.figcaption\" />",
         "figcaption": "Plate VIII.a: Striped Ground Squirrel, or Chipmuck",
-        "location": "plate8.xhtml#epubcfi(/4/2[plate8]/4[a]/2)"
+        "location": "plate8.xhtml#epubcfi(/4/2[plate8]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate8b.jpg",
@@ -83,7 +83,103 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8b.jpg\" aria-labelledby=\"plate8b.figcaption\" />",
         "figcaption": "Plate VIII.b: Striped and Spotted Prairie Squirrel",
-        "location": "plate8.xhtml#epubcfi(/4/2[plate8]/6[b]/2)"
+        "location": "plate8.xhtml#epubcfi(/4/2[plate8]/8[b]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate9a.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9a.jpg\" aria-labelledby=\"plate9a.figcaption\" />",
+        "figcaption": "Plate IX.a: Grey Prairie-Squirrel",
+        "location": "plate9.xhtml#epubcfi(/4/2[plate9]/6[a]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate9b.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9b.jpg\" aria-labelledby=\"plate9b.figcaption\" />",
+        "figcaption": "Plate IX.b: Prairie Dog",
+        "location": "plate9.xhtml#epubcfi(/4/2[plate9]/8[b]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate10a.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10a.jpg\" aria-labelledby=\"plate10a.figcaption\" />",
+        "figcaption": "Plate X.a: Wood-Chuck, or Ground-Hog",
+        "location": "plate10.xhtml#epubcfi(/4/2[plate10]/6[a]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate10b.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10b.jpg\" aria-labelledby=\"plate10b.figcaption\" />",
+        "figcaption": "Plate X.b: Common White-Footed Wood-Mouse",
+        "location": "plate10.xhtml#epubcfi(/4/2[plate10]/8[b]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate11a.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11a.jpg\" aria-labelledby=\"plate11a.figcaption\" />",
+        "figcaption": "Plate XI.a: White-Footed Prairie-Mouse",
+        "location": "plate11.xhtml#epubcfi(/4/2[plate11]/6[a]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate11b.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11b.jpg\" aria-labelledby=\"plate11b.figcaption\" />",
+        "figcaption": "Plate XI.b: Long-Tailed Jumping Mouse",
+        "location": "plate11.xhtml#epubcfi(/4/2[plate11]/8[b]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate12a.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12a.jpg\" aria-labelledby=\"plate12a.figcaption\" />",
+        "figcaption": "Plate XII.a: Prairie Meadow-Mouse",
+        "location": "plate12.xhtml#epubcfi(/4/2[plate12]/6[a]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate12b.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12b.jpg\" aria-labelledby=\"plate12b.figcaption\" />",
+        "figcaption": "Plate XII.b: Wood Meadow-Mouse",
+        "location": "plate12.xhtml#epubcfi(/4/2[plate12]/8[b]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate13a.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13a.jpg\" aria-labelledby=\"plate13a.figcaption\" />",
+        "figcaption": "Plate XIII.a: Long-Haired Meadow-Mouse (Male)",
+        "location": "plate13.xhtml#epubcfi(/4/2[plate13]/6[a]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate13b.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13b.jpg\" aria-labelledby=\"plate13b.figcaption\" />",
+        "figcaption": "Plate XIII.b: Long-Haired Meadow-Mouse (Female)",
+        "location": "plate13.xhtml#epubcfi(/4/2[plate13]/8[b]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate14a.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate14a.jpg\" aria-labelledby=\"plate14a.figcaption\" />",
+        "figcaption": "Plate XIV.a: Muskrat",
+        "location": "plate14.xhtml#epubcfi(/4/2[plate14]/6[a]/2)"
+      },
+      {
+        "src": "EPUB/plates/plate14b.jpg",
+        "alt": null,
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate14b.jpg\" aria-labelledby=\"plate14b.figcaption\" />",
+        "figcaption": "Plate XIV.b: Florida Wood-Rat",
+        "location": "plate14.xhtml#epubcfi(/4/2[plate14]/8[b]/2)"
       }
     ]
   },
@@ -102,6 +198,7 @@
       "dc:description": "A natural history of Mammals in Illinois",
       "dc:type": "Natural History",
       "dc:language": "en-US",
+      "dc:publisher": "Pipfrosch Press",
       "dc:date": "2020-08-09",
       "dc:creator": "Robert Kennicott",
       "dc:contributor": [
@@ -126,7 +223,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-07-04T09:44:15Z"
+      "dcterms:modified": "2020-07-05T00:27:00Z"
     },
     "links": {}
   },
@@ -275,6 +372,28 @@
       },
       "assertions": [],
       "earl:testSubject": {
+        "url": "spermophiles.xhtml",
+        "dct:title": "Prairie Squirrels, or Spermophiles"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "mus.xhtml",
+        "dct:title": "True Rats and Mice"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
         "url": "loi.xhtml",
         "dct:title": "List of Plates"
       }
@@ -321,6 +440,72 @@
       "earl:testSubject": {
         "url": "plate8.xhtml",
         "dct:title": "Plate 8"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate9.xhtml",
+        "dct:title": "Plate 9"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate10.xhtml",
+        "dct:title": "Plate 10"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate11.xhtml",
+        "dct:title": "Plate 11"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate12.xhtml",
+        "dct:title": "Plate 12"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate13.xhtml",
+        "dct:title": "Plate 13"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate14.xhtml",
+        "dct:title": "Plate 14"
       }
     },
     {
