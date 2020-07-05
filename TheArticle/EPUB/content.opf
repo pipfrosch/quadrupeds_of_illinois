@@ -16,8 +16,8 @@
     <meta property="role" refines="cover0" scheme="marc:relators">pht</meta>
     <dc:contributor id="logo0">Nicole Wilson</dc:contributor>
     <meta property="role" refines="logo0" scheme="marc:relators">ill</meta>
-    <dc:contributor id="photo3">Brett Billings (USFWS)</dc:contributor>
-    <meta property="role" refines="photo3" scheme="marc:relators">pht</meta>
+    <dc:contributor id="pht3">Brett Billings (USFWS)</dc:contributor>
+    <meta property="role" refines="pht3" scheme="marc:relators">pht</meta>
     <dc:identifier id="prng-uuid">873564bc-29f2-4967-8bac-f43f45b412b1</dc:identifier>
     <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
     <dc:source id="src-handle">2027/hvd.32044107329120</dc:source>
