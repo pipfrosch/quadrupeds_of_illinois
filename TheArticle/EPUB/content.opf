@@ -69,7 +69,21 @@
     <item href="plates/plate8a.jpg" id="plate8a__jpeg" media-type="image/jpeg"/>
     <item href="plates/plate8b.jpg" id="plate8b__jpeg" media-type="image/jpeg"/>
     <item href="plate8.xhtml" id="plate8" media-type="application/xhtml+xml"/>
-    
+    <item href="plates/plate9a.jpg" id="plate9a__jpeg" media-type="image/jpeg"/>
+    <item href="plates/plate9b.jpg" id="plate9b__jpeg" media-type="image/jpeg"/>
+    <item href="plate9.xhtml" id="plate9" media-type="application/xhtml+xml"/>
+    <item href="plates/plate10a.jpg" id="plate10a__jpeg" media-type="image/jpeg"/>
+    <item href="plates/plate10b.jpg" id="plate10b__jpeg" media-type="image/jpeg"/>
+    <item href="plate10.xhtml" id="plate10" media-type="application/xhtml+xml"/>
+    <item href="plates/plate11a.jpg" id="plate11a__jpeg" media-type="image/jpeg"/>
+    <item href="plates/plate11b.jpg" id="plate11b__jpeg" media-type="image/jpeg"/>
+    <item href="plate11.xhtml" id="plate11" media-type="application/xhtml+xml"/>
+    <item href="plates/plate12a.jpg" id="plate12a__jpeg" media-type="image/jpeg"/>
+    <item href="plates/plate12b.jpg" id="plate12b__jpeg" media-type="image/jpeg"/>
+    <item href="plate12.xhtml" id="plate12" media-type="application/xhtml+xml"/>
+    <item href="plates/plate13a.jpg" id="plate13a__jpeg" media-type="image/jpeg"/>
+    <item href="plates/plate13b.jpg" id="plate13b__jpeg" media-type="image/jpeg"/>
+    <item href="plate13.xhtml" id="plate13" media-type="application/xhtml+xml"/>
     <item href="plates/plate14a.jpg" id="plate14a__jpeg" media-type="image/jpeg"/>
     <item href="plates/plate14b.jpg" id="plate14b__jpeg" media-type="image/jpeg"/>
     <item href="plate14.xhtml" id="plate14" media-type="application/xhtml+xml"/>
@@ -116,7 +130,11 @@
     <itemref idref="plate6"/>
     <itemref idref="plate7"/>
     <itemref idref="plate8"/>
-    
+    <itemref idref="plate9"/>
+    <itemref idref="plate10"/>
+    <itemref idref="plate11"/>
+    <itemref idref="plate12"/>
+    <itemref idref="plate13"/>
     <itemref idref="plate14"/>
     <itemref idref="citation"/>
     <itemref idref="donate"/>
