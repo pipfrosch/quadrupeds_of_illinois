@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "7/4/2020, 5:27:05 PM",
+  "dct:date": "7/5/2020, 2:32:19 AM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -15,9 +15,9 @@
     }
   },
   "outlines": {
-    "toc": "<ol xmlns=\"http://www.w3.org/1999/xhtml\">\n    <li>Title Page</li>\n    <!-- mainmatter -->\n    <li>Introduction</li>\n    <li>Squirrels</li>\n    <li>Large-Tailed Fox Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Migratory Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Black Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Carolina Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Little Red Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Common Flying Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Chipmuck<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Prairie Squirrels</li>\n    \n    \n    <li>Old-World Rodents<ol>\n      <li>Common House-Mouse</li>\n      <li>Brown Rat</li>\n      <li>Black Rat</li>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <!-- backmatter -->\n    <li>List of Plates</li>\n    <li>Standard Citation</li>\n    <li>Donate</li>\n  </ol>",
-    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott, 1857</span><li><span class=\"toc-h2\">Report of the Commissioner of Patents</span><li><span class=\"toc-h2\">Agriculture</span></li></ul></li><li><span class=\"toc-h1\">Introduction</span><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Migratory, or Common Grey and Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Southern Grey or Carolina Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Little Red-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Common Flying Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Striped Ground Squirrel, or Chipmuck</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie Squirrels, or Spermophiles</span><li><span class=\"toc-h1\">True Rats and Mice</span><ul><li><span class=\"toc-h2\">Common House-Mouse</span><li><span class=\"toc-h2\">Brown-Rat</span><li><span class=\"toc-h2\">Black-Rat</span><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V</span><li><span class=\"toc-h1\">Plate VI</span><li><span class=\"toc-h1\">Plate VII</span><li><span class=\"toc-h1\">Plate VIII</span><li><span class=\"toc-h1\">Plate IX</span><li><span class=\"toc-h1\">Plate X</span><li><span class=\"toc-h1\">Plate XI</span><li><span class=\"toc-h1\">Plate XII</span><li><span class=\"toc-h1\">Plate XIII</span><li><span class=\"toc-h1\">Plate XIV</span><li><span class=\"toc-h1\">Standard Citation</span><ul><li><span class=\"toc-h2\">APA Citation</span><li><span class=\"toc-h2\">MLA Citation</span><li><span class=\"toc-h2\">Chicago Style Citation</span></li></ul></li><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
-    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott, 1857</li><li>Report of the Commissioner of Patents</li><li>Agriculture</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Introduction<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Migratory, or Common Grey and Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Southern Grey or Carolina Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Little Red-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Common Flying Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped Ground Squirrel, or Chipmuck<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie Squirrels, or Spermophiles</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>True Rats and Mice<ol><li>Common House-Mouse</li><li>Brown-Rat</li><li>Black-Rat</li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate IX</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate X</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIV</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Standard Citation<ol><li>APA Citation</li><li>MLA Citation</li><li>Chicago Style Citation</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
+    "toc": "<ol xmlns=\"http://www.w3.org/1999/xhtml\">\n    <li>Title Page</li>\n    <!-- mainmatter -->\n    <li>Introduction</li>\n    <li>Squirrels</li>\n    <li>Large-Tailed Fox Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Migratory Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Black Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Carolina Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Little Red Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Common Flying Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Chipmuck<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Prairie Squirrels</li>\n    <li>Striped and Spotted Prairie-Squirrel</li>\n    \n    \n    <li>Old-World Rodents<ol>\n      <li>Common House-Mouse</li>\n      <li>Brown Rat</li>\n      <li>Black Rat</li>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <!-- backmatter -->\n    <li>List of Plates</li>\n    <li>Standard Citation</li>\n    <li>List of Photographs</li>\n    <li>Donate</li>\n  </ol>",
+    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott, 1857</span><li><span class=\"toc-h2\">Report of the Commissioner of Patents</span><li><span class=\"toc-h2\">Agriculture</span></li></ul></li><li><span class=\"toc-h1\">Introduction</span><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Migratory, or Common Grey and Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Southern Grey or Carolina Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Little Red-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Common Flying Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Striped Ground Squirrel, or Chipmuck</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie Squirrels, or Spermophiles</span><li><span class=\"toc-h1\">Striped and Spotted Prairie-Squirrel</span><li><span class=\"toc-h1\">True Rats and Mice</span><ul><li><span class=\"toc-h2\">Common House-Mouse</span><li><span class=\"toc-h2\">Brown-Rat</span><li><span class=\"toc-h2\">Black-Rat</span><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V</span><li><span class=\"toc-h1\">Plate VI</span><li><span class=\"toc-h1\">Plate VII</span><li><span class=\"toc-h1\">Plate VIII</span><li><span class=\"toc-h1\">Plate IX</span><li><span class=\"toc-h1\">Plate X</span><li><span class=\"toc-h1\">Plate XI</span><li><span class=\"toc-h1\">Plate XII</span><li><span class=\"toc-h1\">Plate XIII</span><li><span class=\"toc-h1\">Plate XIV</span><li><span class=\"toc-h1\">Standard Citation</span><ul><li><span class=\"toc-h2\">APA Citation</span><li><span class=\"toc-h2\">MLA Citation</span><li><span class=\"toc-h2\">Chicago Style Citation</span><li><span class=\"toc-h2\">List of Photographs</span></li></ul></li><li><span class=\"toc-h1\">Photo 3: Delmarva Peninsula Fox Squirrel</span><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
+    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott, 1857</li><li>Report of the Commissioner of Patents</li><li>Agriculture</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Introduction<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Migratory, or Common Grey and Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Southern Grey or Carolina Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Little Red-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Common Flying Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped Ground Squirrel, or Chipmuck<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie Squirrels, or Spermophiles</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped and Spotted Prairie-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>True Rats and Mice<ol><li>Common House-Mouse</li><li>Brown-Rat</li><li>Black-Rat</li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate IX</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate X</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIV</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Standard Citation<ol><li>APA Citation</li><li>MLA Citation</li><li>Chicago Style Citation</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Photographs</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 3: Delmarva Peninsula Fox Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
   },
   "data": {
     "images": [
@@ -180,6 +180,14 @@
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate14b.jpg\" aria-labelledby=\"plate14b.figcaption\" />",
         "figcaption": "Plate XIV.b: Florida Wood-Rat",
         "location": "plate14.xhtml#epubcfi(/4/2[plate14]/8[b]/2)"
+      },
+      {
+        "src": "EPUB/photos/natdiglib_16732_cropped.jpg",
+        "alt": "Close-up of a Delmarva Peninsula fox squirrel at Blackwater National Wildlife Refuge.",
+        "role": null,
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"photos/natdiglib_16732_cropped.jpg\" alt=\"Close-up of a Delmarva Peninsula fox squirrel at Blackwater National Wildlife Refuge.\" aria-labelledby=\"photo3.figcaption\" />",
+        "figcaption": "Sciurus niger cinereus",
+        "location": "photo3.xhtml#epubcfi(/4/2/4[photo3]/2)"
       }
     ]
   },
@@ -204,7 +212,8 @@
       "dc:contributor": [
         "Michael A. Peters",
         "Grayson Smith (USFWS)",
-        "Nicole Wilson"
+        "Nicole Wilson",
+        "Brett Billings (USFWS)"
       ],
       "dc:identifier": "873564bc-29f2-4967-8bac-f43f45b412b1",
       "dc:source": "2027/hvd.32044107329120",
@@ -223,7 +232,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-07-05T00:27:00Z"
+      "dcterms:modified": "2020-07-05T09:32:14Z"
     },
     "links": {}
   },
@@ -383,6 +392,17 @@
       },
       "assertions": [],
       "earl:testSubject": {
+        "url": "striped-spotted-prairie-squirrel.xhtml",
+        "dct:title": "Striped and Spotted Prairie-Squirrel"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
         "url": "mus.xhtml",
         "dct:title": "True Rats and Mice"
       }
@@ -517,6 +537,28 @@
       "earl:testSubject": {
         "url": "citation.xhtml",
         "dct:title": "Standard Citation"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "lop.xhtml",
+        "dct:title": "List of Photographs"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "photo3.xhtml",
+        "dct:title": "Delmarva Peninsula Fox Squirrel"
       }
     },
     {
