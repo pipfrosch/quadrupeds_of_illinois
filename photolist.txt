@@ -9,3 +9,4 @@ Photo  8: Glaucomys volans
 Photo  9: Tamias striatus
 Photo 10: Ictidomys tridecemlineatus
 Photo 11: Poliocitellus franklinii
+Photo 12: Cynomys ludovicianus
