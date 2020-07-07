@@ -2,7 +2,7 @@
 * Photo  2: Sciurus niger cinereus (Fox-Squirrel of PA)
 Photo  3: Sciurus niger vulpinus (Fox-Squirrel of PA)
 Photo  4: Sciurus carolinensis pennsylvanicus (Migratory)
-Photo  5: Melanistic Sciurus niger rufiventer (Black Squirrel)
+* Photo  5: Melanistic Sciurus niger rufiventer (Black Squirrel)
 Photo  6: Sciurus carolinensis carolinensis (Southern Gray)
 * Photo  7: Tamiasciurus hudsonicus (Little Red-Squirrel)
 Photo  8: Glaucomys volans (Common Flying Squirrel)

@@ -21,6 +21,8 @@
     <meta property="role" refines="pht1" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht2">Brett Billings (USFWS)</dc:contributor>
     <meta property="role" refines="pht2" scheme="marc:relators">pht</meta>
+    <dc:contributor id="pht5">Robert Taylor</dc:contributor>
+    <meta property="role" refines="pht5" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht7">Donna A. Dewhurst (USFWS)</dc:contributor>
     <meta property="role" refines="pht7" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht9">Ryan Hodnett</dc:contributor>
@@ -108,6 +110,9 @@
     <item href="photos/natdiglib_16732_cropped.jpg" id="photo2__jpeg" media-type="image/jpeg"/>
     <item href="photo2.xhtml" id="photo2" media-type="application/xhtml+xml"/>
     
+    <item href="photos/Black_Squirrel_4417_(5661613861).jpg" id="photo5__jpeg" media-type="image/jpeg"/>
+    <item href="photo5.xhtml" id="photo5" media-type="application/xhtml+xml"/>
+    
     <item href="photos/natdiglib_2731_cropped.jpg" id="photo7__jpeg" media-type="image/jpeg"/>
     <item href="photo7.xhtml" id="photo7" media-type="application/xhtml+xml"/>
     
@@ -183,6 +188,7 @@
     <itemref idref="lop"/>
     <itemref idref="photo1"/>
     <itemref idref="photo2"/>
+    <itemref idref="photo5"/>
     <itemref idref="photo7"/>
     <itemref idref="photo9"/>
     <itemref idref="photo11"/>
