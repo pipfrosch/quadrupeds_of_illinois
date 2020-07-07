@@ -174,7 +174,7 @@
     <itemref idref="lop"/>
     <itemref idref="photo2"/>
     <itemref idref="photo7"/>
-    <itemred idref="photo9"/>
+    <itemref idref="photo9"/>
     <itemref idref="photo11"/>
     <itemref idref="donate"/>
   </spine>
