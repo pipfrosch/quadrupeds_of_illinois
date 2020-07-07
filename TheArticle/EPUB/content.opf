@@ -110,6 +110,9 @@
     
     <item href="photos/ground_squirrel_nebraska_3719_cropped.jpg" id="photo11__jpeg" media-type="image/jpeg"/>
     <item href="photo11.xhtml" id="photo11" media-type="application/xhtml+xml"/>
+    
+    <item href="photos/Rattus_rattus_01_cropped.jpg" id="photo24__jpeg" media-type="image/jpeg"/>
+    <item href="photo24.xhtml" id="photo24" media-type="application/xhtml+xml"/>
   <!-- frontmatter -->
     <item href="PreLogo.svg" id="PipfroschPressLogo" media-type="image/svg+xml"/>
     <item href="TitlePage.xhtml" id="TitlePage" media-type="application/xhtml+xml" properties="svg"/>
@@ -176,6 +179,7 @@
     <itemref idref="photo7"/>
     <itemref idref="photo9"/>
     <itemref idref="photo11"/>
+    <itemref idref="photo24"/>
     <itemref idref="donate"/>
   </spine>
 </package>
