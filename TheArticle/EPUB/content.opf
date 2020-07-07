@@ -116,6 +116,7 @@
     <item href="grey-prairie-squirrel.xhtml" id="gpsquirrel" media-type="application/xhtml+xml"/>
     <item href="prairie-dog.xhtml" id="pdog" media-type="application/xhtml+xml"/>
     <item href="groundhog.xhtml" id="ghog" media-type="application/xhtml+xml"/>
+    <item href="meadow-mice.xhtml" id="meadowmice" media-type="application/xhtml+xml"/>
     
     <item href="mus.xhtml" id="mus" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
@@ -142,6 +143,7 @@
     <itemref idref="gpsquirrel"/>
     <itemref idref="pdog"/>
     <itemref idref="ghog"/>
+    <itemref idref="meadowmice"/>
     
     <itemref idref="mus"/>
     <!-- backmatter -->
