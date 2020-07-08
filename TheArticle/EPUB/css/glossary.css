@@ -1,0 +1,11 @@
+span.wiktionary {
+  font-style: italic;
+}
+
+span.wiktionary::before {
+  content: "(";
+}
+
+span.wiktionary::after {
+  content: ")";
+}
