@@ -105,6 +105,14 @@ figure.figure {
   margin: 0;
 }
 
+figure.plate {
+  display: inline-block;
+  margin: auto;
+}
+figure.plate figcaption {
+  text-align: center;
+}
+
 span.captitle {
   font-style: normal;
   font-weight: bold;
