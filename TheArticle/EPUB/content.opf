@@ -37,6 +37,8 @@
     <meta property="role" refines="pht11" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht13">Simon Pierre Barrette</dc:contributor>
     <meta property="role" refines="pht13" scheme="marc:relators">pht</meta>
+    <dc:contributor id="pht15">Gregory Smith</dc:contributor>
+    <meta property="role" refines="pht15" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht24">H. Zell</dc:contributor>
     <meta property="role" refines="pht24" scheme="marc:relators">pht</meta>
     
