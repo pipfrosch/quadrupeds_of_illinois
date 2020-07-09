@@ -160,6 +160,7 @@
     <item href="groundhog.xhtml" id="ghog" media-type="application/xhtml+xml"/>
     <item href="meadow-mice.xhtml" id="meadowmice" media-type="application/xhtml+xml"/>
     <item href="common-white-footed-mouse.xhtml" id="cwfwm" media-type="application/xhtml+xml"/>
+    <item href="white-footed-prairie-mouse.xhtml" id="wfpm" media-type="application/xhtml+xml"/>
     
     <item href="mus.xhtml" id="mus" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
@@ -189,6 +190,7 @@
     <itemref idref="ghog"/>
     <itemref idref="meadowmice"/>
     <itemref idref="cwfwm"/>
+    <itemref idref="wfpm"/>
     
     <itemref idref="mus"/>
     <!-- backmatter -->
