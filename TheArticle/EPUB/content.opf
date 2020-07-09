@@ -138,6 +138,9 @@
     <item href="photos/Marmota_monax_UL_04.jpg" id="photo13__jpeg" media-type="image/jpeg"/>
     <item href="photo13.xhtml" id="photo13" media-type="application/xhtml+xml"/>
     
+    <item href="photos/deermouse-cropped.jpg" id="photo15__jpeg" media-type="image/jpeg"/>
+    <item href="photo15.xhtml" id="photo15" media-type="application/xhtml+xml"/>
+    
     <item href="photos/Rattus_rattus_01_cropped.jpg" id="photo24__jpeg" media-type="image/jpeg"/>
     <item href="photo24.xhtml" id="photo24" media-type="application/xhtml+xml"/>
   <!-- frontmatter -->
@@ -218,6 +221,7 @@
     <itemref idref="photo10"/>
     <itemref idref="photo11"/>
     <itemref idref="photo13"/>
+    <itemref idref="photo15"/>
     <itemref idref="photo24"/>
     <itemref idref="donate"/>
   </spine>
