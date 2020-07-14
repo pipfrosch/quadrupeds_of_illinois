@@ -5,8 +5,12 @@
 
 /* testing something */
 
-span[data-epubtype] {
+span[data-epubtype="subparagraph"] {
   display: block;
+}
+
+p span[data-epubtype="subparagraph"]:not(:first-of-type) {
+  margin-top: 1em;
 }
 
 /* default reader styles */
