@@ -5,7 +5,7 @@
 
 /* testing something */
 
-span[data-epubstyle] {
+span[data-epubtype] {
   display: block;
 }
 
