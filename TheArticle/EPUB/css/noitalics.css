@@ -3,6 +3,12 @@
    Append this to a11y.css and most italicized fonts will
    use an alternative */
 
+/* testing something */
+
+span[data-epubstyle] {
+  display: block;
+}
+
 /* default reader styles */
 
 em {
