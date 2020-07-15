@@ -3,7 +3,7 @@
    Append this to a11y.css and most italicized fonts will
    use an alternative */
 
-/* testing something */
+/* subparagraph */
 
 span[data-epubtype="subparagraph"] {
   display: block;
@@ -11,6 +11,10 @@ span[data-epubtype="subparagraph"] {
 
 p span[data-epubtype="subparagraph"]:not(:first-of-type) {
   margin-top: 1em;
+}
+
+section#description span[data-epubtype="subparagraph"]:not(:first-of-type) {
+  text-indent: 0;
 }
 
 blockquote span[data-epubtype="subparagraph"]:not(:first-of-type) {
