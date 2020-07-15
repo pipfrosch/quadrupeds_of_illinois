@@ -13,6 +13,10 @@ p span[data-epubtype="subparagraph"]:not(:first-of-type) {
   margin-top: 1em;
 }
 
+blockquote span[data-epubtype="subparagraph"]:not(:first-of-type) {
+  margin-top: 1em;
+}
+
 /* default reader styles */
 
 em {

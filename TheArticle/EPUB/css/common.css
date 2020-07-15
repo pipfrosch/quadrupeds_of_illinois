@@ -38,7 +38,7 @@ ul.authoritylist {
   padding-left: 0;
 }
 
-section#description p {
+section#description p:first-of-type {
   text-indent: -1.5em;
   padding-left: 1.5em;
 }
