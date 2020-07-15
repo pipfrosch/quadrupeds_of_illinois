@@ -13,12 +13,12 @@ p span[data-epubtype="subparagraph"]:not(:first-of-type) {
   margin-top: 1em;
 }
 
-section#description span[data-epubtype="subparagraph"]:not(:first-of-type) {
-  text-indent: 0;
-}
-
 blockquote span[data-epubtype="subparagraph"]:not(:first-of-type) {
   margin-top: 1em;
+}
+
+section#description span[data-epubtype="subparagraph"]:not(:first-of-type) {
+  text-indent: 0;
 }
 
 /* default reader styles */
@@ -50,6 +50,7 @@ dfn {
 .taxon {
   font-family: 'ComicNeue', 'Gill Sans', sans-serif;
   font-style: normal;
+  font-weight: bold;
 }
 
 text.ilogo {
