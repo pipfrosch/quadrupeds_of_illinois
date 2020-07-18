@@ -23,6 +23,12 @@
     <phoneme>pəˈteɪdʒi.əm</phoneme>
     <phoneme alphabet="x-sampa">p@"teIdZi.@m</phoneme>
   </lexeme>
+<!-- T -->
+  <lexeme>
+    <grapheme>torpor</grapheme>
+    <phoneme>ˈtôrpər</phoneme>
+    <phoneme alphabet="x-sampa">"tôrp@r</phoneme>
+  </lexeme>
 <!-- U -->
   <!-- uropatagium -->
 <!-- Z -->
