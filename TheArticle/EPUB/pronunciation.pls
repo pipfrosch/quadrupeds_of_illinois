@@ -11,6 +11,20 @@
     <phoneme>ˈɛstɪˌveɪt</phoneme>
     <phoneme alphabet="x-sampa">"EstI%veIt</phoneme>
   </lexeme>
+<!-- H -->
+  <lexeme>
+    <grapheme>Helianthus</grapheme>
+    <phoneme>ˌhiːliˈænθəs</phoneme>
+    <phoneme alphabet="x-sampa">%hi:li"{nT@s</phoneme>
+    <!-- A flower genus name -->
+  </lexeme>
+<!-- L -->
+  <lexeme>
+    <grapheme>Liatris</grapheme>
+    <phoneme>laɪˈætrɪs</phoneme>
+    <phoneme alphabet="x-sampa">laI"{trIs</phoneme>
+    <!-- A flower genus name -->
+  </lexeme>
 <!-- M -->
   <lexeme>
     <grapheme>Mammalogy</grapheme>
