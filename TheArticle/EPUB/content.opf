@@ -168,6 +168,7 @@
     <item href="white-footed-prairie-mouse.xhtml" id="wfpm" media-type="application/xhtml+xml"/>
     <item href="long-tailed-jumping-mouse.xhtml" id="ltjm" media-type="application/xhtml+xml"/>
     <item href="prairie-meadow-mouse.xhtml" id="pmm" media-type="application/xhtml+xml"/>
+    <item href="wood-meadow-mouse.xhtml" id="wmm" media-type="application/xhtml+xml"/>
     
     <item href="mus.xhtml" id="mus" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
@@ -200,6 +201,7 @@
     <itemref idref="wfpm"/>
     <itemref idref="ltjm"/>
     <itemref idref="pmm"/>
+    <itemref idref="wmm"/>
     
     <itemref idref="mus"/>
     <!-- backmatter -->
