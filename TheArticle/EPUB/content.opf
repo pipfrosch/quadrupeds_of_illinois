@@ -43,8 +43,8 @@
     <meta property="role" refines="pht19" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht20">Tom Koerner (USFWS)</dc:contributor>
     <meta property="role" refines="pht20" scheme="marc:relators">pht</meta>
-    <dc:contributor id="pht24">H. Zell</dc:contributor>
-    <meta property="role" refines="pht24" scheme="marc:relators">pht</meta>
+    <dc:contributor id="pht23">H. Zell</dc:contributor>
+    <meta property="role" refines="pht23" scheme="marc:relators">pht</meta>
     
     
     <dc:identifier id="prng-uuid">873564bc-29f2-4967-8bac-f43f45b412b1</dc:identifier>
@@ -152,8 +152,8 @@
     <item href="photos/natdiglib_18483_cropped.jpg" id="photo20__jpeg" media-type="image/jpeg"/>
     <item href="photo20.xhtml" id="photo20" media-type="application/xhtml+xml"/>
     
-    <item href="photos/Rattus_rattus_01_cropped.jpg" id="photo24__jpeg" media-type="image/jpeg"/>
-    <item href="photo24.xhtml" id="photo24" media-type="application/xhtml+xml"/>
+    <item href="photos/Rattus_rattus_01_cropped.jpg" id="photo23__jpeg" media-type="image/jpeg"/>
+    <item href="photo23.xhtml" id="photo23" media-type="application/xhtml+xml"/>
   <!-- frontmatter -->
     <item href="PreLogo.svg" id="PipfroschPressLogo" media-type="image/svg+xml"/>
     <item href="TitlePage.xhtml" id="TitlePage" media-type="application/xhtml+xml" properties="svg"/>
@@ -243,7 +243,7 @@
     <itemref idref="photo15"/>
     <itemref idref="photo19"/>
     <itemref idref="photo20"/>
-    <itemref idref="photo24"/>
+    <itemref idref="photo23"/>
     <itemref idref="donate"/>
   </spine>
 </package>
