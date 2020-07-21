@@ -39,6 +39,8 @@
     <meta property="role" refines="pht13" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht15">Gregory Smith</dc:contributor>
     <meta property="role" refines="pht15" scheme="marc:relators">pht</meta>
+    <dc:contributor id="pht20">Daderot</dc:contributor>
+    <meta property="role" refines="pht20" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht24">H. Zell</dc:contributor>
     <meta property="role" refines="pht24" scheme="marc:relators">pht</meta>
     
@@ -143,6 +145,9 @@
     <item href="photos/deermouse-cropped.jpg" id="photo15__jpeg" media-type="image/jpeg"/>
     <item href="photo15.xhtml" id="photo15" media-type="application/xhtml+xml"/>
     
+    <item href="photos/meadow-vole-cropped.jpg" id="photo20__jpeg" media-type="image/jpeg"/>
+    <item href="photo20.xhtml" id="photo20" media-type="application/xhtml+xml"/>
+    
     <item href="photos/Rattus_rattus_01_cropped.jpg" id="photo24__jpeg" media-type="image/jpeg"/>
     <item href="photo24.xhtml" id="photo24" media-type="application/xhtml+xml"/>
   <!-- frontmatter -->
@@ -169,6 +174,7 @@
     <item href="long-tailed-jumping-mouse.xhtml" id="ltjm" media-type="application/xhtml+xml"/>
     <item href="prairie-meadow-mouse.xhtml" id="pmm" media-type="application/xhtml+xml"/>
     <item href="wood-meadow-mouse.xhtml" id="wmm" media-type="application/xhtml+xml"/>
+    <item href="long-haired-meadow-mouse.xhtml" id="lhmm" media-type="application/xhtml+xml"/>
     
     <item href="mus.xhtml" id="mus" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
@@ -202,6 +208,7 @@
     <itemref idref="ltjm"/>
     <itemref idref="pmm"/>
     <itemref idref="wmm"/>
+    <itemref idref="lhmm"/>
     
     <itemref idref="mus"/>
     <!-- backmatter -->
@@ -230,6 +237,7 @@
     <itemref idref="photo11"/>
     <itemref idref="photo13"/>
     <itemref idref="photo15"/>
+    <itemref idref="photo20"/>
     <itemref idref="photo24"/>
     <itemref idref="donate"/>
   </spine>
