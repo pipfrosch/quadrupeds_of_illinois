@@ -183,7 +183,7 @@
     <item href="prairie-meadow-mouse.xhtml" id="pmm" media-type="application/xhtml+xml"/>
     <item href="wood-meadow-mouse.xhtml" id="wmm" media-type="application/xhtml+xml"/>
     <item href="long-haired-meadow-mouse.xhtml" id="lhmm" media-type="application/xhtml+xml"/>
-    
+    <item href="muskrat.xhtml" id="muskrat" media-type="application/xhtml+xml"/>
     <item href="mus.xhtml" id="mus" media-type="application/xhtml+xml"/>
   <!-- backmatter -->
     <item href="loi.xhtml" id="loi" media-type="application/xhtml+xml"/>
@@ -217,7 +217,7 @@
     <itemref idref="pmm"/>
     <itemref idref="wmm"/>
     <itemref idref="lhmm"/>
-    
+    <itemref idref="muskrat"/>
     <itemref idref="mus"/>
     <!-- backmatter -->
     <itemref idref="loi"/>
