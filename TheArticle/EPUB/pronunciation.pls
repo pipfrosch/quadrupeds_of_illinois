@@ -33,9 +33,21 @@
   </lexeme>
 <!-- P -->
   <lexeme>
+    <grapheme>paraphyletic</grapheme>
+    <grapheme>Paraphyletic</grapheme>
+    <phoneme>ˌperəfīˈledik</phoneme>
+    <phoneme alphabet="x-sampa">%per@fī"ledik</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>patagium</grapheme>
     <phoneme>pəˈteɪdʒi.əm</phoneme>
     <phoneme alphabet="x-sampa">p@"teIdZi.@m</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>monophyletic</grapheme>
+    <grapheme>Monophyletic</grapheme>
+    <phoneme>ˌmänōfīˈledik</phoneme>
+    <phoneme alphabet="x-sampa">%mänōfī"ledik</phoneme>
   </lexeme>
 <!-- T -->
   <lexeme>
