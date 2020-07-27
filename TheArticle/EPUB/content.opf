@@ -45,7 +45,7 @@
     <meta property="role" refines="pht20" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht23">H. Zell</dc:contributor>
     <meta property="role" refines="pht23" scheme="marc:relators">pht</meta>
-    <dc:contributor id="pht24">Dick Sheldon</dc:contributor>
+    <dc:contributor id="pht24">OlinEJ (Pixabay)</dc:contributor>
     <meta property="role" refines="pht24" scheme="marc:relators">pht</meta>
     
     
