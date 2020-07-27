@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "7/27/2020, 1:04:29 AM",
+  "dct:date": "7/27/2020, 1:06:51 AM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -358,7 +358,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-07-27T08:04:23Z"
+      "dcterms:modified": "2020-07-27T08:06:47Z"
     },
     "links": {}
   },
@@ -635,44 +635,9 @@
     {
       "@type": "earl:assertion",
       "earl:result": {
-        "earl:outcome": "fail"
+        "earl:outcome": "pass"
       },
-      "assertions": [
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "The landmark must have a unique aria-label, aria-labelledby, or title to make landmarks distinguishable",
-            "earl:pointer": {
-              "cfi": [
-                "/4/2/18[footnote]/8[footnote.2]",
-                "/4/2/18[footnote]/10[footnote.3]"
-              ],
-              "css": [
-                "#footnote\\.2",
-                "#footnote\\.3"
-              ]
-            },
-            "html": "<aside xmlns=\"http://www.w3.org/1999/xhtml\" aria-label=\"Footnote 2\" id=\"footnote.2\" xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"footnote\" role=\"doc-footnote\"><p>[2]\nRoughly $12.00 to $15.00 in <time>2020</time> money.</p></aside> <!--##--> <aside xmlns=\"http://www.w3.org/1999/xhtml\" aria-label=\"Footnote 2\" id=\"footnote.3\" xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"footnote\" role=\"doc-footnote\"><p>[3]\nRoughly $2.50 to $4.50 in <time>2020</time> money.</p></aside>"
-          },
-          "earl:assertedBy": "aXe",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "moderate",
-            "dct:title": "landmark-unique",
-            "dct:description": "Landmarks must have a unique role or role/label/title (i.e. accessible name) combination",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/",
-              "dct:title": "(no specific entry)",
-              "dct:description": "Ensures landmarks are unique"
-            },
-            "rulesetTags": [
-              "cat.semantics",
-              "best-practice"
-            ]
-          }
-        }
-      ],
+      "assertions": [],
       "earl:testSubject": {
         "url": "muskrat.xhtml",
         "dct:title": "Muskrat"
@@ -813,41 +778,9 @@
     {
       "@type": "earl:assertion",
       "earl:result": {
-        "earl:outcome": "fail"
+        "earl:outcome": "pass"
       },
-      "assertions": [
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "Element has no ARIA role matching its epub:type",
-            "earl:pointer": {
-              "cfi": [
-                "/4/2/4/44"
-              ],
-              "css": [
-                "dd:nth-child(22)"
-              ]
-            },
-            "html": "<dd xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"glossterm\">The ethnic people groups who inhabited a land prior to the recording of modern written history. Also often referred to as ‘First Nations’ or ‘Native Peoples’.</dd>"
-          },
-          "earl:assertedBy": "aXe",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "minor",
-            "dct:title": "epub-type-has-matching-role",
-            "dct:description": "Ensure the element has an ARIA role matching its epub:type",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/docs/html/roles.html",
-              "dct:title": "ARIA role",
-              "dct:description": "ARIA role should be used in addition to epub:type"
-            },
-            "rulesetTags": [
-              "best-practice"
-            ]
-          }
-        }
-      ],
+      "assertions": [],
       "earl:testSubject": {
         "url": "glossary.xhtml",
         "dct:title": "Glossary of Terms"
@@ -1053,6 +986,6 @@
     }
   ],
   "earl:result": {
-    "earl:outcome": "fail"
+    "earl:outcome": "pass"
   }
 }
