@@ -31,6 +31,12 @@
     <phoneme>məˈmaləjē</phoneme>
     <phoneme alphabet="x-sampa">m@"mal@jē</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>monophyletic</grapheme>
+    <grapheme>Monophyletic</grapheme>
+    <phoneme>ˌmänōfīˈledik</phoneme>
+    <phoneme alphabet="x-sampa">%mänōfī"ledik</phoneme>
+  </lexeme>
 <!-- P -->
   <lexeme>
     <grapheme>paraphyletic</grapheme>
@@ -44,10 +50,10 @@
     <phoneme alphabet="x-sampa">p@"teIdZi.@m</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>monophyletic</grapheme>
-    <grapheme>Monophyletic</grapheme>
-    <phoneme>ˌmänōfīˈledik</phoneme>
-    <phoneme alphabet="x-sampa">%mänōfī"ledik</phoneme>
+    <grapheme>Pottawattamie</grapheme>
+    <grapheme>Potawatomi</grapheme>
+    <phoneme>ˌpɑːtəˈwɑːtəmiː</phoneme>
+    <phoneme alphabet="x-sampa">%pA:t@"wA:t@mi:</phoneme>
   </lexeme>
 <!-- T -->
   <lexeme>
