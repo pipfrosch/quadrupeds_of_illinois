@@ -54,6 +54,11 @@ span.vocalization {
   font-style: italic;
 }
 
+span.otherlang {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
 
 
 p.artauthor {
