@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "7/27/2020, 10:03:08 PM",
+  "dct:date": "7/28/2020, 12:21:20 AM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -358,7 +358,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-07-28T05:03:02Z"
+      "dcterms:modified": "2020-07-28T07:21:15Z"
     },
     "links": {}
   },
