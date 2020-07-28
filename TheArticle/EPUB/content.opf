@@ -250,7 +250,7 @@
     <itemref idref="photo20"/>
     <itemref idref="photo23"/>
     <itemref idref="photo24"/>
-    <itemred idref="wanted"/>
+    <itemref idref="wanted"/>
     <itemref idref="donate"/>
   </spine>
 </package>
