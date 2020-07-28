@@ -72,15 +72,6 @@ zip -r -X Book.zip mimetype META-INF EPUB
 mv Book.zip Quadrupeds-Illinois.kepub.epub
 
 #dyslexia friendly version
-find . -type f -print |grep "\.xhtml$" |while read file; do
-  cat ${file} \
-|sed -e s?"Æ"?"AE"?g \
-|sed -e s?"æ"?"ae"?g \
-|sed -e s?"Œ"?"OE"?g \
-|sed -e s?"œ"?"oe"?g > tmp.sed
-cat tmp.sed > ${file}
-done
-rm -f tmp.sed
 cat EPUB/css/noitalics.css >> EPUB/css/a11y.css
 zip -r -X Book.zip mimetype META-INF EPUB
 mv Book.zip Quadrupeds-Illinois-noitalics.kepub.epub
