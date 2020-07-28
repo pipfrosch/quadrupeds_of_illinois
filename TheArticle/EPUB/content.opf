@@ -35,6 +35,8 @@
     <meta property="role" refines="pht10" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht11">Jon Richfield</dc:contributor>
     <meta property="role" refines="pht11" scheme="marc:relators">pht</meta>
+    <dc:contributor id="pht12">Ron Singer (USFWS)</dc:contributor>
+    <meta property="role" refines="pht12" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht13">Simon Pierre Barrette</dc:contributor>
     <meta property="role" refines="pht13" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht15">Gregory Smith</dc:contributor>
@@ -143,9 +145,10 @@
     <item href="photos/ground_squirrel_nebraska_3719_cropped.jpg" id="photo11__jpeg" media-type="image/jpeg"/>
     <item href="photo11.xhtml" id="photo11" media-type="application/xhtml+xml"/>
     
+    <item href="photos/pdog.jpg" id="photo12__jpeg" media-type="image/jpeg"/>
+    <item href="photo12.xhtml" id="photo12" media-type="application/xhtml+xml"/>
     <item href="photos/Marmota_monax_UL_04.jpg" id="photo13__jpeg" media-type="image/jpeg"/>
     <item href="photo13.xhtml" id="photo13" media-type="application/xhtml+xml"/>
-    
     <item href="photos/deermouse-cropped.jpg" id="photo15__jpeg" media-type="image/jpeg"/>
     <item href="photo15.xhtml" id="photo15" media-type="application/xhtml+xml"/>
     
@@ -244,6 +247,7 @@
     <itemref idref="photo9"/>
     <itemref idref="photo10"/>
     <itemref idref="photo11"/>
+    <itemref idref="photo12"/>
     <itemref idref="photo13"/>
     <itemref idref="photo15"/>
     <itemref idref="photo19"/>
