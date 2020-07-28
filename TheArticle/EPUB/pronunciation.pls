@@ -55,6 +55,13 @@
     <phoneme>ˌpɑːtəˈwɑːtəmiː</phoneme>
     <phoneme alphabet="x-sampa">%pA:t@"wA:t@mi:</phoneme>
   </lexeme>
+<!-- R -->
+  <lexeme>
+    <grapheme>reconnoiter</graphme>
+    <phoneme>ˌɹɛkəˈnɔɪtɚ</phoneme>
+    <phoneme alphabet="x-sampa">%r\Ek@"nOItɚ</phoneme>
+    <!-- British ˌɹɛkəˈnɔɪtə -->
+  </lexeme>
 <!-- T -->
   <lexeme>
     <grapheme>torpor</grapheme>
