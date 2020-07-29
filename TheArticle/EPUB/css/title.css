@@ -45,6 +45,11 @@ p#forthe {
   margin-bottom: 1em;
 }
 
+p#ofyear {
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
 hr {
   width: 25%;
   margin-left: auto;
