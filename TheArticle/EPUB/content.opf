@@ -201,7 +201,7 @@
   <spine>
     <!-- frontmatter -->
     <itemref idref="TitlePage"/>
-    <itemred idref="forward"/>
+    <itemref idref="forward"/>
     <!-- mainmatter -->
     <itemref idref="introduction"/>
     <itemref idref="squirrels"/>
