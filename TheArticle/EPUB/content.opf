@@ -164,6 +164,7 @@
   <!-- frontmatter -->
     <item href="PreLogo.svg" id="PipfroschPressLogo" media-type="image/svg+xml"/>
     <item href="TitlePage.xhtml" id="TitlePage" media-type="application/xhtml+xml" properties="svg"/>
+    <item href="forward.xhtml" id="forward" media-type="application/xhtml+xml"/>
   <!-- bodymatter -->
     <item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>
     <item href="squirrels.xhtml" id="squirrels" media-type="application/xhtml+xml"/>
@@ -200,6 +201,7 @@
   <spine>
     <!-- frontmatter -->
     <itemref idref="TitlePage"/>
+    <itemred idref="forward"/>
     <!-- mainmatter -->
     <itemref idref="introduction"/>
     <itemref idref="squirrels"/>
