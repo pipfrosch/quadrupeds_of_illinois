@@ -11,12 +11,9 @@
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <dc:contributor id="editor0">Michael A. Peters</dc:contributor>
     <meta property="role" refines="editor0" scheme="marc:relators">edt</meta>
-    <meta property="role" refines="editor0" scheme="marc:relators">prg</meta>    
-    <dc:contributor id="cover0">Grayson Smith (USFWS)</dc:contributor>
-    <meta property="role" refines="cover0" scheme="marc:relators">pht</meta>
+    <meta property="role" refines="editor0" scheme="marc:relators">prg</meta>
     <dc:contributor id="logo0">Nicole Wilson</dc:contributor>
     <meta property="role" refines="logo0" scheme="marc:relators">ill</meta>
-    
     <dc:contributor id="pht1">Ilona Loser</dc:contributor>
     <meta property="role" refines="pht1" scheme="marc:relators">pht</meta>
     <dc:contributor id="pht2">Brett Billings (USFWS)</dc:contributor>
