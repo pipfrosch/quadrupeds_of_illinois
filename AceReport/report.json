@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/1/2020, 3:07:10 PM",
+  "dct:date": "8/1/2020, 4:09:11 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -135,35 +135,35 @@
       },
       {
         "src": "EPUB/plates/plate12a.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Prairie Meadow-Mouse on the ground with grass growing behind it.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12a.jpg\" aria-labelledby=\"plate12a.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12a.jpg\" aria-labelledby=\"plate12a.figcaption\" alt=\"Profile sketch of a Prairie Meadow-Mouse on the ground with grass growing behind it.\" />",
         "figcaption": "Plate XII.a: Prairie Meadow-Mouse",
         "location": "plate12.xhtml#epubcfi(/4/2[plate12]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate12b.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Wood Meadow-Mouse on the ground with woodland behind it.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12b.jpg\" aria-labelledby=\"plate12b.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12b.jpg\" aria-labelledby=\"plate12b.figcaption\" alt=\"Profile sketch of a Wood Meadow-Mouse on the ground with woodland behind it.\" />",
         "figcaption": "Plate XII.b: Wood Meadow-Mouse",
-        "location": "plate12.xhtml#epubcfi(/4/2[plate12]/8[b]/2)"
+        "location": "plate12.xhtml#epubcfi(/4/2[plate12]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate13a.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a male Long-Haired Meadow-Mouse on the ground in meadow grassland.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13a.jpg\" aria-labelledby=\"plate13a.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13a.jpg\" aria-labelledby=\"plate13a.figcaption\" alt=\"Profile sketch of a male Long-Haired Meadow-Mouse on the ground in meadow grassland.\" />",
         "figcaption": "Plate XIII.a: Long-Haired Meadow-Mouse (Male)",
         "location": "plate13.xhtml#epubcfi(/4/2[plate13]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate13b.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a female Long-Haired Meadow-Mouse on the ground in meadow grassland.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13b.jpg\" aria-labelledby=\"plate13b.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13b.jpg\" aria-labelledby=\"plate13b.figcaption\" alt=\"Profile sketch of a female Long-Haired Meadow-Mouse on the ground in meadow grassland.\" />",
         "figcaption": "Plate XIII.b: Long-Haired Meadow-Mouse (Female)",
-        "location": "plate13.xhtml#epubcfi(/4/2[plate13]/8[b]/2)"
+        "location": "plate13.xhtml#epubcfi(/4/2[plate13]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate14a.jpg",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-01T22:07:03Z"
+      "dcterms:modified": "2020-08-01T23:09:06Z"
     },
     "links": {}
   },
