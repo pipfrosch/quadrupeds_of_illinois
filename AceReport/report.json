@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/1/2020, 2:03:12 PM",
+  "dct:date": "8/1/2020, 3:07:10 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -103,35 +103,35 @@
       },
       {
         "src": "EPUB/plates/plate10a.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Ground-Hog with head turned to face the viewer.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10a.jpg\" aria-labelledby=\"plate10a.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10a.jpg\" aria-labelledby=\"plate10a.figcaption\" alt=\"Profile sketch of a Ground-Hog with head turned to face the viewer.\" />",
         "figcaption": "Plate X.a: Wood-Chuck, or Ground-Hog",
         "location": "plate10.xhtml#epubcfi(/4/2[plate10]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate10b.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Common White-Footed Wood-Mouse on the ground with its hind-quarters backed-up against grass.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10b.jpg\" aria-labelledby=\"plate10b.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10b.jpg\" aria-labelledby=\"plate10b.figcaption\" alt=\"Profile sketch of a Common White-Footed Wood-Mouse on the ground with its hind-quarters backed-up against grass.\" />",
         "figcaption": "Plate X.b: Common White-Footed Wood-Mouse",
-        "location": "plate10.xhtml#epubcfi(/4/2[plate10]/8[b]/2)"
+        "location": "plate10.xhtml#epubcfi(/4/2[plate10]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate11a.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a White-Footed Prairie-Mouse with grass growing near the head and tail.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11a.jpg\" aria-labelledby=\"plate11a.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11a.jpg\" aria-labelledby=\"plate11a.figcaption\" alt=\"Profile sketch of a White-Footed Prairie-Mouse with grass growing near the head and tail.\" />",
         "figcaption": "Plate XI.a: White-Footed Prairie-Mouse",
         "location": "plate11.xhtml#epubcfi(/4/2[plate11]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate11b.jpg",
-        "alt": null,
+        "alt": "Profile skrtch of a Long-Tailed Jumping Mouse standing up on its hind legs on the ground, with grass growing behind it. In the distance, another specimen in the act of jumping in the air is depicted.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11b.jpg\" aria-labelledby=\"plate11b.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11b.jpg\" aria-labelledby=\"plate11b.figcaption\" alt=\"Profile skrtch of a Long-Tailed Jumping Mouse standing up on its hind legs on the ground, with grass growing behind it. In the distance, another specimen in the act of jumping in the air is depicted.\" />",
         "figcaption": "Plate XI.b: Long-Tailed Jumping Mouse",
-        "location": "plate11.xhtml#epubcfi(/4/2[plate11]/8[b]/2)"
+        "location": "plate11.xhtml#epubcfi(/4/2[plate11]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate12a.jpg",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-01T21:03:06Z"
+      "dcterms:modified": "2020-08-01T22:07:03Z"
     },
     "links": {}
   },
