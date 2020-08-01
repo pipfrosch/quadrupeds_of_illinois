@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/1/2020, 12:22:47 PM",
+  "dct:date": "8/1/2020, 12:37:30 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -55,9 +55,9 @@
       },
       {
         "src": "EPUB/plates/plate7a.jpg",
-        "alt": null,
+        "alt": "Profile view of of a Little Red-Squirrel on a branch with tail behind the squirrel.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7a.jpg\" aria-labelledby=\"plate7a.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7a.jpg\" aria-labelledby=\"plate7a.figcaption\" alt=\"Profile view of of a Little Red-Squirrel on a branch with tail behind the squirrel.\" />",
         "figcaption": "Plate VII.a: Little Red-Squirrel",
         "location": "plate7.xhtml#epubcfi(/4/2[plate7]/6[a]/2)"
       },
@@ -67,7 +67,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7b.jpg\" aria-labelledby=\"plate7b.figcaption\" />",
         "figcaption": "Plate VII.b: Common Flying Squirrel",
-        "location": "plate7.xhtml#epubcfi(/4/2[plate7]/8[b]/2)"
+        "location": "plate7.xhtml#epubcfi(/4/2[plate7]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate8a.jpg",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-01T19:22:41Z"
+      "dcterms:modified": "2020-08-01T19:37:25Z"
     },
     "links": {}
   },
