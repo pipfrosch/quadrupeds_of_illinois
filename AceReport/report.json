@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/1/2020, 12:55:32 PM",
+  "dct:date": "8/1/2020, 2:03:12 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -87,19 +87,19 @@
       },
       {
         "src": "EPUB/plates/plate9a.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Gray Prairie-Squirrel in grass with mouth at the ground.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9a.jpg\" aria-labelledby=\"plate9a.figcaption\" />",
-        "figcaption": "Plate IX.a: Grey Prairie-Squirrel",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9a.jpg\" aria-labelledby=\"plate9a.figcaption\" alt=\"Profile sketch of a Gray Prairie-Squirrel in grass with mouth at the ground.\" />",
+        "figcaption": "Plate IX.a: Gray Prairie-Squirrel",
         "location": "plate9.xhtml#epubcfi(/4/2[plate9]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate9b.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Prairie Dog sitting on the ground.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9b.jpg\" aria-labelledby=\"plate9b.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9b.jpg\" aria-labelledby=\"plate9b.figcaption\" alt=\"Profile sketch of a Prairie Dog sitting on the ground.\" />",
         "figcaption": "Plate IX.b: Prairie Dog",
-        "location": "plate9.xhtml#epubcfi(/4/2[plate9]/8[b]/2)"
+        "location": "plate9.xhtml#epubcfi(/4/2[plate9]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate10a.jpg",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-01T19:55:27Z"
+      "dcterms:modified": "2020-08-01T21:03:06Z"
     },
     "links": {}
   },
