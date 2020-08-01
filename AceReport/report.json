@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/1/2020, 11:52:16 AM",
+  "dct:date": "8/1/2020, 12:22:47 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -23,35 +23,35 @@
     "images": [
       {
         "src": "EPUB/plates/plate5a.jpg",
-        "alt": "profile sketch of a Large-Tailed Fox-Squirrel on a branch with the tail arced over the body in a shape like the letter S.",
+        "alt": "Profile sketch of a Large-Tailed Fox-Squirrel on a branch with the tail arced over the body in a shape like the letter S.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5a.jpg\" aria-labelledby=\"plate5a.figcaption\" alt=\"profile sketch of a Large-Tailed Fox-Squirrel on a branch with the tail arced over the body in a shape like the letter S.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5a.jpg\" aria-labelledby=\"plate5a.figcaption\" alt=\"Profile sketch of a Large-Tailed Fox-Squirrel on a branch with the tail arced over the body in a shape like the letter S.\" />",
         "figcaption": "Plate V.a: Large-Tailed Fox-Squirrel",
         "location": "plate5.xhtml#epubcfi(/4/2[plate5]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate5b.jpg",
-        "alt": "profile sketch of a Fox-Squirrel of Pennsylvania on the ground with the tail pointing straight but at the base but arcing back down begind the squirrel.",
+        "alt": "Profile sketch of a Fox-Squirrel of Pennsylvania on a branch with the tail pointing straight but at the base but arcing back down begind the squirrel.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5b.jpg\" aria-labelledby=\"plate5b.figcaption\" alt=\"profile sketch of a Fox-Squirrel of Pennsylvania on the ground with the tail pointing straight but at the base but arcing back down begind the squirrel.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5b.jpg\" aria-labelledby=\"plate5b.figcaption\" alt=\"Profile sketch of a Fox-Squirrel of Pennsylvania on a branch with the tail pointing straight but at the base but arcing back down begind the squirrel.\" />",
         "figcaption": "Plate V.b: Fox-Squirrel of Pennsylvania",
         "location": "plate5.xhtml#epubcfi(/4/2[plate5]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate6a.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Migratory Squirrel on a sloped ground surface with the tail behind the squirrel.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6a.jpg\" aria-labelledby=\"plate6a.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6a.jpg\" aria-labelledby=\"plate6a.figcaption\" alt=\"Profile sketch of a Migratory Squirrel on a sloped ground surface with the tail behind the squirrel.\" />",
         "figcaption": "Plate VI.a: Migratory, or Common Grey and Black Squirrel",
         "location": "plate6.xhtml#epubcfi(/4/2[plate6]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate6b.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Black Squirrel sitting on a branch on its haunches, holding an acorn with its forepaws up to its mouth.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6b.jpg\" aria-labelledby=\"plate6b.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6b.jpg\" aria-labelledby=\"plate6b.figcaption\" alt=\"Profile sketch of a Black Squirrel sitting on a branch on its haunches, holding an acorn with its forepaws up to its mouth.\" />",
         "figcaption": "Plate VI.b: Black Squirrel",
-        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/8[b]/2)"
+        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate7a.jpg",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-01T18:52:09Z"
+      "dcterms:modified": "2020-08-01T19:22:41Z"
     },
     "links": {}
   },
