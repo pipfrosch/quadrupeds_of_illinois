@@ -122,6 +122,10 @@ figure.plate figcaption {
   text-align: center;
 }
 
+figure#b {
+  page-break-before: always;
+}
+
 span.captitle {
   font-style: normal;
   font-weight: bold;
