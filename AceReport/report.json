@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/1/2020, 12:37:30 PM",
+  "dct:date": "8/1/2020, 12:55:32 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -63,27 +63,27 @@
       },
       {
         "src": "EPUB/plates/plate7b.jpg",
-        "alt": null,
+        "alt": "Profile view of a Common Flying Squirrel gliding through the air with out-stretched limbs.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7b.jpg\" aria-labelledby=\"plate7b.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7b.jpg\" aria-labelledby=\"plate7b.figcaption\" alt=\"Profile view of a Common Flying Squirrel gliding through the air with out-stretched limbs.\" />",
         "figcaption": "Plate VII.b: Common Flying Squirrel",
         "location": "plate7.xhtml#epubcfi(/4/2[plate7]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate8a.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Chipmuck walking on a branch.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8a.jpg\" aria-labelledby=\"plate8a.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8a.jpg\" aria-labelledby=\"plate8a.figcaption\" alt=\"Profile sketch of a Chipmuck walking on a branch.\" />",
         "figcaption": "Plate VIII.a: Striped Ground Squirrel, or Chipmuck",
         "location": "plate8.xhtml#epubcfi(/4/2[plate8]/6[a]/2)"
       },
       {
         "src": "EPUB/plates/plate8b.jpg",
-        "alt": null,
+        "alt": "Profile sketch of a Striped and Spotted Prairie Squirrel walking on the ground.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8b.jpg\" aria-labelledby=\"plate8b.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8b.jpg\" aria-labelledby=\"plate8b.figcaption\" alt=\"Profile sketch of a Striped and Spotted Prairie Squirrel walking on the ground.\" />",
         "figcaption": "Plate VIII.b: Striped and Spotted Prairie Squirrel",
-        "location": "plate8.xhtml#epubcfi(/4/2[plate8]/8[b]/2)"
+        "location": "plate8.xhtml#epubcfi(/4/2[plate8]/10[b]/2)"
       },
       {
         "src": "EPUB/plates/plate9a.jpg",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-01T19:37:25Z"
+      "dcterms:modified": "2020-08-01T19:55:27Z"
     },
     "links": {}
   },
