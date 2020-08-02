@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/1/2020, 9:17:18 PM",
+  "dct:date": "8/1/2020, 10:47:12 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -16,8 +16,8 @@
   },
   "outlines": {
     "toc": "<ol xmlns=\"http://www.w3.org/1999/xhtml\">\n    <li>Title Page</li>\n    <li>Foreword</li>\n    <!-- mainmatter -->\n    <li>Introduction</li>\n    <li>Squirrels</li>\n    <li>Large-Tailed Fox-Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Migratory Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Black-Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Carolina Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Little Red-Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Common Flying Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Chipmuck<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Prairie Squirrels</li>\n    <li>Striped and Spotted Prairie-Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Gray Prairie-Squirrel<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Prairie-Dog<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Wood-Chuck<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Meadow Mice</li>\n    <li>Common White-Footed Wood-Mouse<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>White-Footed Prairie-Mouse<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Long Tailed Jumping Mouse<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Prairie Meadow-Mouse<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Wood Meadow-Mouse<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Long-Haired Meadow-Mouse<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Muskrat<ol>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <li>Old-World Rodents<ol>\n      <li>Common House-Mouse</li>\n      <li>Brown-Rat</li>\n      <li>Black-Rat</li>\n      <li>Pipfrosch Press Taxonomy Notes</li>\n    </ol></li>\n    <!-- backmatter -->\n    <li>List of Plates</li>\n    <li>Glossary of Terms</li>\n    <li>Standard Citation</li>\n    <li>List of Photographs</li>\n    <li>To Do List</li>\n    <li>Needed Photographs</li>\n    <li>Donate</li>\n  </ol>",
-    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott</span><li><span class=\"toc-h2\">Report of the Commissioner of Patents</span><li><span class=\"toc-h2\">Part II: Agriculture</span></li></ul></li><li><span class=\"toc-h1\">Foreword</span><ul><li><span class=\"toc-h2\">Comprehension Tips</span><li><span class=\"toc-h2\">Editorial Changes</span></li></ul></li><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Migratory, or Common Gray- and Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Southern Gray or Carolina Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Little Red-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Common Flying Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Striped Ground Squirrel, or Chipmuck</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie Squirrels, or Spermophiles</span><li><span class=\"toc-h1\">Striped and Spotted Prairie-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Gray Prairie-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie-Dog</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Wood-Chuck, or Ground-Hog</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Meadow-Mice</span><li><span class=\"toc-h1\">Common White-Footed Wood-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">White-Footed Prairie-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Long-Tailed Jumping Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie Meadow-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Wood Meadow-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Long-Haired Meadow-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Muskrat</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">True Rats and Mice</span><ul><li><span class=\"toc-h2\">Common House-Mouse</span><li><span class=\"toc-h2\">Brown-Rat</span><li><span class=\"toc-h2\">Black-Rat</span><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V</span><li><span class=\"toc-h1\">Plate VI</span><li><span class=\"toc-h1\">Plate VII</span><li><span class=\"toc-h1\">Plate VIII</span><li><span class=\"toc-h1\">Plate IX</span><li><span class=\"toc-h1\">Plate X</span><li><span class=\"toc-h1\">Plate XI</span><li><span class=\"toc-h1\">Plate XII</span><li><span class=\"toc-h1\">Plate XIII</span><li><span class=\"toc-h1\">Plate XIV.a</span><li><span class=\"toc-h1\">Plate XIV.b</span><li><span class=\"toc-h1\">Glossary of Terms</span><li><span class=\"toc-h1\">Standard Citation</span><ul><li><span class=\"toc-h2\">APA Citation</span><li><span class=\"toc-h2\">MLA Citation</span><li><span class=\"toc-h2\">Chicago Style Citation</span><li><span class=\"toc-h2\">List of Photographs</span></li></ul></li><li><span class=\"toc-h1\">Photo 1: Western Fox Squirrel</span><li><span class=\"toc-h1\">Photo 2: Delmarva Peninsula Fox Squirrel</span><li><span class=\"toc-h1\">Photo 4: Eastern Gray Squirrel</span><li><span class=\"toc-h1\">Photo 5: Melanistic Squirrel</span><li><span class=\"toc-h1\">Photo 6: Eastern Gray Squirrel</span><li><span class=\"toc-h1\">Photo 7: Red Squirrel</span><li><span class=\"toc-h1\">Photo 9: Eastern Chipmunk</span><li><span class=\"toc-h1\">Photo 10: Thirteen-lined Ground Squirrel</span><li><span class=\"toc-h1\">Photo 11: Franklin’s Ground Squirrel</span><li><span class=\"toc-h1\">Photo 12: Black-tailed Prairie Dog</span><li><span class=\"toc-h1\">Photo 13: Groundhog</span><li><span class=\"toc-h1\">Photo 15: Deer Mouse</span><li><span class=\"toc-h1\">Photo 19: Meadow Vole</span><li><span class=\"toc-h1\">Photo 20: Muskrat</span><li><span class=\"toc-h1\">Photo 23: Black Rat</span><li><span class=\"toc-h1\">Photo 24: Corn Shocks</span><li><span class=\"toc-h1\">To Do List</span><li><span class=\"toc-h1\">Needed Photographs</span><ul><li><span class=\"toc-h2\">Delmarva Penninsula Fox Squirrel</span><li><span class=\"toc-h2\">Eastern Fox Squirrel</span><li><span class=\"toc-h2\">Eastern Gray Squirrel</span><li><span class=\"toc-h2\">Melanistic Western Fox Squirrel</span><li><span class=\"toc-h2\">Red Squirrel</span><li><span class=\"toc-h2\">Southern Flying Squirrel</span><li><span class=\"toc-h2\">Franklin’s Ground Squirrel</span><li><span class=\"toc-h2\">White-footed Mouse</span><li><span class=\"toc-h2\">Deer Mouse</span><li><span class=\"toc-h2\">Meadow Jumping Mouse</span><li><span class=\"toc-h2\">Prairie Vole</span><li><span class=\"toc-h2\">Woodland Vole</span><li><span class=\"toc-h2\">House Mouse</span><li><span class=\"toc-h2\">Brown Rat</span><li><span class=\"toc-h2\">Black Rat</span></li></ul></li><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
-    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott</li><li>Report of the Commissioner of Patents</li><li>Part II: Agriculture</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Foreword<ol><li>Comprehension Tips</li><li>Editorial Changes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li><i>Untitled SECTION</i><ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Migratory, or Common Gray- and Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Southern Gray or Carolina Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Little Red-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Common Flying Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped Ground Squirrel, or Chipmuck<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie Squirrels, or Spermophiles</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped and Spotted Prairie-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Gray Prairie-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie-Dog<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Wood-Chuck, or Ground-Hog<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Meadow-Mice<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Common White-Footed Wood-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>White-Footed Prairie-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Long-Tailed Jumping Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie Meadow-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Wood Meadow-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Long-Haired Meadow-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Muskrat<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>True Rats and Mice<ol><li>Common House-Mouse</li><li>Brown-Rat</li><li>Black-Rat</li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate IX</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate X</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XI</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIII</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIV.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIV.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Glossary of Terms</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Standard Citation<ol><li>APA Citation</li><li>MLA Citation</li><li>Chicago Style Citation</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Photographs</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 1: Western Fox Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 2: Delmarva Peninsula Fox Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 4: Eastern Gray Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 5: Melanistic Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 6: Eastern Gray Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 7: Red Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 9: Eastern Chipmunk</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 10: Thirteen-lined Ground Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 11: Franklin’s Ground Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 12: Black-tailed Prairie Dog</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 13: Groundhog</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 15: Deer Mouse</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 19: Meadow Vole</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 20: Muskrat</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 23: Black Rat</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 24: Corn Shocks<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>To Do List</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Needed Photographs<ol><li>Delmarva Penninsula Fox Squirrel</li><li>Eastern Fox Squirrel</li><li>Eastern Gray Squirrel</li><li>Melanistic Western Fox Squirrel</li><li>Red Squirrel</li><li>Southern Flying Squirrel</li><li>Franklin’s Ground Squirrel</li><li>White-footed Mouse</li><li>Deer Mouse</li><li>Meadow Jumping Mouse</li><li>Prairie Vole</li><li>Woodland Vole</li><li>House Mouse</li><li>Brown Rat</li><li>Black Rat</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
+    "headings": "<ul><li><span class=\"toc-h1\">The Quadrupeds of Illinois</span><ul><li><span class=\"toc-h2\">Injurious and Beneficial to the Farmer</span><li><span class=\"toc-h2\">by Robert Kennicott</span><li><span class=\"toc-h2\">Report of the Commissioner of Patents</span><li><span class=\"toc-h2\">Part II: Agriculture</span></li></ul></li><li><span class=\"toc-h1\">Foreword</span><ul><li><span class=\"toc-h2\">Comprehension Tips</span><li><span class=\"toc-h2\">Editorial Changes</span></li></ul></li><li><span class=\"toc-h1\">Squirrels</span><li><span class=\"toc-h1\">Large-Tailed Fox-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Migratory, or Common Gray- and Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Black-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Southern Gray or Carolina Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Little Red-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Common Flying Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Striped Ground Squirrel, or Chipmuck</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie Squirrels, or Spermophiles</span><li><span class=\"toc-h1\">Striped and Spotted Prairie-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Gray Prairie-Squirrel</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie-Dog</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Wood-Chuck, or Ground-Hog</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Meadow-Mice</span><li><span class=\"toc-h1\">Common White-Footed Wood-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">White-Footed Prairie-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Long-Tailed Jumping Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Prairie Meadow-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Wood Meadow-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Long-Haired Meadow-Mouse</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">Muskrat</span><ul><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span></li></ul></li><li><span class=\"toc-h1\">True Rats and Mice</span><ul><li><span class=\"toc-h2\">Common House-Mouse</span><li><span class=\"toc-h2\">Brown-Rat</span><li><span class=\"toc-h2\">Black-Rat</span><li><span class=\"toc-h2\">Pipfrosch Press Taxonomy Notes</span><li><span class=\"toc-h2\">List of Plates</span></li></ul></li><li><span class=\"toc-h1\">Plate V.a</span><li><span class=\"toc-h1\">Plate V.b</span><li><span class=\"toc-h1\">Plate VI.a</span><li><span class=\"toc-h1\">Plate VI.b</span><li><span class=\"toc-h1\">Plate VII.a</span><li><span class=\"toc-h1\">Plate VII.b</span><li><span class=\"toc-h1\">Plate VIII.a</span><li><span class=\"toc-h1\">Plate VIII.b</span><li><span class=\"toc-h1\">Plate IX.a</span><li><span class=\"toc-h1\">Plate IX.b</span><li><span class=\"toc-h1\">Plate X.a</span><li><span class=\"toc-h1\">Plate X.b</span><li><span class=\"toc-h1\">Plate XI.a</span><li><span class=\"toc-h1\">Plate XI.b</span><li><span class=\"toc-h1\">Plate XII.a</span><li><span class=\"toc-h1\">Plate XII.b</span><li><span class=\"toc-h1\">Plate XIII.a</span><li><span class=\"toc-h1\">Plate XIII.b</span><li><span class=\"toc-h1\">Plate XIV.a</span><li><span class=\"toc-h1\">Plate XIV.b</span><li><span class=\"toc-h1\">Glossary of Terms</span><li><span class=\"toc-h1\">Standard Citation</span><ul><li><span class=\"toc-h2\">APA Citation</span><li><span class=\"toc-h2\">MLA Citation</span><li><span class=\"toc-h2\">Chicago Style Citation</span><li><span class=\"toc-h2\">List of Photographs</span></li></ul></li><li><span class=\"toc-h1\">Photo 1: Western Fox Squirrel</span><li><span class=\"toc-h1\">Photo 2: Delmarva Peninsula Fox Squirrel</span><li><span class=\"toc-h1\">Photo 4: Eastern Gray Squirrel</span><li><span class=\"toc-h1\">Photo 5: Melanistic Squirrel</span><li><span class=\"toc-h1\">Photo 6: Eastern Gray Squirrel</span><li><span class=\"toc-h1\">Photo 7: Red Squirrel</span><li><span class=\"toc-h1\">Photo 9: Eastern Chipmunk</span><li><span class=\"toc-h1\">Photo 10: Thirteen-lined Ground Squirrel</span><li><span class=\"toc-h1\">Photo 11: Franklin’s Ground Squirrel</span><li><span class=\"toc-h1\">Photo 12: Black-tailed Prairie Dog</span><li><span class=\"toc-h1\">Photo 13: Groundhog</span><li><span class=\"toc-h1\">Photo 15: Deer Mouse</span><li><span class=\"toc-h1\">Photo 19: Meadow Vole</span><li><span class=\"toc-h1\">Photo 20: Muskrat</span><li><span class=\"toc-h1\">Photo 23: Black Rat</span><li><span class=\"toc-h1\">Photo 24: Corn Shocks</span><li><span class=\"toc-h1\">To Do List</span><li><span class=\"toc-h1\">Needed Photographs</span><ul><li><span class=\"toc-h2\">Delmarva Penninsula Fox Squirrel</span><li><span class=\"toc-h2\">Eastern Fox Squirrel</span><li><span class=\"toc-h2\">Eastern Gray Squirrel</span><li><span class=\"toc-h2\">Melanistic Western Fox Squirrel</span><li><span class=\"toc-h2\">Red Squirrel</span><li><span class=\"toc-h2\">Southern Flying Squirrel</span><li><span class=\"toc-h2\">Franklin’s Ground Squirrel</span><li><span class=\"toc-h2\">White-footed Mouse</span><li><span class=\"toc-h2\">Deer Mouse</span><li><span class=\"toc-h2\">Meadow Jumping Mouse</span><li><span class=\"toc-h2\">Prairie Vole</span><li><span class=\"toc-h2\">Woodland Vole</span><li><span class=\"toc-h2\">House Mouse</span><li><span class=\"toc-h2\">Brown Rat</span><li><span class=\"toc-h2\">Black Rat</span></li></ul></li><li><span class=\"toc-h1\">Donations</span><ul><li><span class=\"toc-h2\">Pipfrosch Press</span></li></ul></li></ul>",
+    "html": "<ol><li><ol><li><i>Untitled BODY</i><ol><li>The Quadrupeds of Illinois<ol><li>Injurious and Beneficial to the Farmer</li><li>by Robert Kennicott</li><li>Report of the Commissioner of Patents</li><li>Part II: Agriculture</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Foreword<ol><li>Comprehension Tips</li><li>Editorial Changes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li><i>Untitled SECTION</i><ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Squirrels</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Large-Tailed Fox-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Migratory, or Common Gray- and Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Black-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Southern Gray or Carolina Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Little Red-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Common Flying Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped Ground Squirrel, or Chipmuck<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie Squirrels, or Spermophiles</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Striped and Spotted Prairie-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Gray Prairie-Squirrel<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie-Dog<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Wood-Chuck, or Ground-Hog<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Meadow-Mice<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Common White-Footed Wood-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>White-Footed Prairie-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Long-Tailed Jumping Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Prairie Meadow-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Wood Meadow-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Long-Haired Meadow-Mouse<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Muskrat<ol><li><i>Untitled SECTION</i></li><li><i>Untitled SECTION</i></li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>True Rats and Mice<ol><li>Common House-Mouse</li><li>Brown-Rat</li><li>Black-Rat</li><li>Pipfrosch Press Taxonomy Notes</li><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Plates</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate V.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VI.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VI.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VII.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VII.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VIII.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate VIII.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate IX.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate IX.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate X.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate X.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XI.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XI.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XII.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XII.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIII.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIII.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIV.a</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Plate XIV.b</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Glossary of Terms</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Standard Citation<ol><li>APA Citation</li><li>MLA Citation</li><li>Chicago Style Citation</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>List of Photographs</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 1: Western Fox Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 2: Delmarva Peninsula Fox Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 4: Eastern Gray Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 5: Melanistic Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 6: Eastern Gray Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 7: Red Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 9: Eastern Chipmunk</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 10: Thirteen-lined Ground Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 11: Franklin’s Ground Squirrel</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 12: Black-tailed Prairie Dog</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 13: Groundhog</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 15: Deer Mouse</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 19: Meadow Vole</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 20: Muskrat</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 23: Black Rat</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Photo 24: Corn Shocks<ol><li><i>Untitled SECTION</i><ol><li><i>Untitled ASIDE</i></li></ol></li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>To Do List</li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Needed Photographs<ol><li>Delmarva Penninsula Fox Squirrel</li><li>Eastern Fox Squirrel</li><li>Eastern Gray Squirrel</li><li>Melanistic Western Fox Squirrel</li><li>Red Squirrel</li><li>Southern Flying Squirrel</li><li>Franklin’s Ground Squirrel</li><li>White-footed Mouse</li><li>Deer Mouse</li><li>Meadow Jumping Mouse</li><li>Prairie Vole</li><li>Woodland Vole</li><li>House Mouse</li><li>Brown Rat</li><li>Black Rat</li></ol></li></ol></li></ol></li><li><ol><li><i>Untitled BODY</i><ol><li>Donations<ol><li>Pipfrosch Press</li></ol></li></ol></li></ol></li></ol>"
   },
   "data": {
     "images": [
@@ -25,145 +25,145 @@
         "src": "EPUB/plates/plate5a.jpg",
         "alt": "Profile sketch of a Large-Tailed Fox-Squirrel on a branch with the tail arced over the body in a shape like the letter S.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5a.jpg\" aria-labelledby=\"plate5a.figcaption\" alt=\"Profile sketch of a Large-Tailed Fox-Squirrel on a branch with the tail arced over the body in a shape like the letter S.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Large-Tailed Fox-Squirrel on a branch with the tail arced over the body in a shape like the letter S.\" />",
         "figcaption": "Plate V.a: Large-Tailed Fox-Squirrel",
-        "location": "plate5.xhtml#epubcfi(/4/2[plate5]/6[a]/2)"
+        "location": "plate5a.xhtml#epubcfi(/4/2[plate5a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate5b.jpg",
         "alt": "Profile sketch of a Fox-Squirrel of Pennsylvania on a branch with the tail pointing straight but at the base but arcing back down begind the squirrel.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5b.jpg\" aria-labelledby=\"plate5b.figcaption\" alt=\"Profile sketch of a Fox-Squirrel of Pennsylvania on a branch with the tail pointing straight but at the base but arcing back down begind the squirrel.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate5b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Fox-Squirrel of Pennsylvania on a branch with the tail pointing straight but at the base but arcing back down begind the squirrel.\" />",
         "figcaption": "Plate V.b: Fox-Squirrel of Pennsylvania",
-        "location": "plate5.xhtml#epubcfi(/4/2[plate5]/10[b]/2)"
+        "location": "plate5b.xhtml#epubcfi(/4/2[plate5b]/4/2)"
       },
       {
         "src": "EPUB/plates/plate6a.jpg",
         "alt": "Profile sketch of a Migratory Squirrel on a sloped ground surface with the tail behind the squirrel.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6a.jpg\" aria-labelledby=\"plate6a.figcaption\" alt=\"Profile sketch of a Migratory Squirrel on a sloped ground surface with the tail behind the squirrel.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Migratory Squirrel on a sloped ground surface with the tail behind the squirrel.\" />",
         "figcaption": "Plate VI.a: Migratory, or Common Grey and Black Squirrel",
-        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/6[a]/2)"
+        "location": "plate6a.xhtml#epubcfi(/4/2[plate6a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate6b.jpg",
         "alt": "Profile sketch of a Black Squirrel sitting on a branch on its haunches, holding an acorn with its forepaws up to its mouth.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6b.jpg\" aria-labelledby=\"plate6b.figcaption\" alt=\"Profile sketch of a Black Squirrel sitting on a branch on its haunches, holding an acorn with its forepaws up to its mouth.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate6b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Black Squirrel sitting on a branch on its haunches, holding an acorn with its forepaws up to its mouth.\" />",
         "figcaption": "Plate VI.b: Black Squirrel",
-        "location": "plate6.xhtml#epubcfi(/4/2[plate6]/10[b]/2)"
+        "location": "plate6b.xhtml#epubcfi(/4/2[plate6b]/4/2)"
       },
       {
         "src": "EPUB/plates/plate7a.jpg",
         "alt": "Profile view of of a Little Red-Squirrel on a branch with tail behind the squirrel.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7a.jpg\" aria-labelledby=\"plate7a.figcaption\" alt=\"Profile view of of a Little Red-Squirrel on a branch with tail behind the squirrel.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile view of of a Little Red-Squirrel on a branch with tail behind the squirrel.\" />",
         "figcaption": "Plate VII.a: Little Red-Squirrel",
-        "location": "plate7.xhtml#epubcfi(/4/2[plate7]/6[a]/2)"
+        "location": "plate7a.xhtml#epubcfi(/4/2[plate7a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate7b.jpg",
         "alt": "Profile view of a Common Flying Squirrel gliding through the air with out-stretched limbs.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7b.jpg\" aria-labelledby=\"plate7b.figcaption\" alt=\"Profile view of a Common Flying Squirrel gliding through the air with out-stretched limbs.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate7b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile view of a Common Flying Squirrel gliding through the air with out-stretched limbs.\" />",
         "figcaption": "Plate VII.b: Common Flying Squirrel",
-        "location": "plate7.xhtml#epubcfi(/4/2[plate7]/10[b]/2)"
+        "location": "plate7b.xhtml#epubcfi(/4/2[plate7b]/4/2)"
       },
       {
         "src": "EPUB/plates/plate8a.jpg",
         "alt": "Profile sketch of a Chipmuck walking on a branch.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8a.jpg\" aria-labelledby=\"plate8a.figcaption\" alt=\"Profile sketch of a Chipmuck walking on a branch.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Chipmuck walking on a branch.\" />",
         "figcaption": "Plate VIII.a: Striped Ground Squirrel, or Chipmuck",
-        "location": "plate8.xhtml#epubcfi(/4/2[plate8]/6[a]/2)"
+        "location": "plate8a.xhtml#epubcfi(/4/2[plate8a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate8b.jpg",
         "alt": "Profile sketch of a Striped and Spotted Prairie Squirrel walking on the ground.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8b.jpg\" aria-labelledby=\"plate8b.figcaption\" alt=\"Profile sketch of a Striped and Spotted Prairie Squirrel walking on the ground.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate8b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Striped and Spotted Prairie Squirrel walking on the ground.\" />",
         "figcaption": "Plate VIII.b: Striped and Spotted Prairie Squirrel",
-        "location": "plate8.xhtml#epubcfi(/4/2[plate8]/10[b]/2)"
+        "location": "plate8b.xhtml#epubcfi(/4/2[plate8b]/4/2)"
       },
       {
         "src": "EPUB/plates/plate9a.jpg",
         "alt": "Profile sketch of a Gray Prairie-Squirrel in grass with mouth at the ground.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9a.jpg\" aria-labelledby=\"plate9a.figcaption\" alt=\"Profile sketch of a Gray Prairie-Squirrel in grass with mouth at the ground.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Gray Prairie-Squirrel in grass with mouth at the ground.\" />",
         "figcaption": "Plate IX.a: Gray Prairie-Squirrel",
-        "location": "plate9.xhtml#epubcfi(/4/2[plate9]/6[a]/2)"
+        "location": "plate9a.xhtml#epubcfi(/4/2[plate9a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate9b.jpg",
         "alt": "Profile sketch of a Prairie Dog sitting on the ground.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9b.jpg\" aria-labelledby=\"plate9b.figcaption\" alt=\"Profile sketch of a Prairie Dog sitting on the ground.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate9b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Prairie Dog sitting on the ground.\" />",
         "figcaption": "Plate IX.b: Prairie Dog",
-        "location": "plate9.xhtml#epubcfi(/4/2[plate9]/10[b]/2)"
+        "location": "plate9b.xhtml#epubcfi(/4/2[plate9b]/4/2)"
       },
       {
         "src": "EPUB/plates/plate10a.jpg",
         "alt": "Profile sketch of a Ground-Hog with head turned to face the viewer.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10a.jpg\" aria-labelledby=\"plate10a.figcaption\" alt=\"Profile sketch of a Ground-Hog with head turned to face the viewer.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Ground-Hog with head turned to face the viewer.\" />",
         "figcaption": "Plate X.a: Wood-Chuck, or Ground-Hog",
-        "location": "plate10.xhtml#epubcfi(/4/2[plate10]/6[a]/2)"
+        "location": "plate10a.xhtml#epubcfi(/4/2[plate10a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate10b.jpg",
         "alt": "Profile sketch of a Common White-Footed Wood-Mouse on the ground with its hind-quarters backed-up against grass.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10b.jpg\" aria-labelledby=\"plate10b.figcaption\" alt=\"Profile sketch of a Common White-Footed Wood-Mouse on the ground with its hind-quarters backed-up against grass.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate10b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Common White-Footed Wood-Mouse on the ground with its hind-quarters backed-up against grass.\" />",
         "figcaption": "Plate X.b: Common White-Footed Wood-Mouse",
-        "location": "plate10.xhtml#epubcfi(/4/2[plate10]/10[b]/2)"
+        "location": "plate10b.xhtml#epubcfi(/4/2[plate10b]/4/2)"
       },
       {
         "src": "EPUB/plates/plate11a.jpg",
         "alt": "Profile sketch of a White-Footed Prairie-Mouse with grass growing near the head and tail.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11a.jpg\" aria-labelledby=\"plate11a.figcaption\" alt=\"Profile sketch of a White-Footed Prairie-Mouse with grass growing near the head and tail.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a White-Footed Prairie-Mouse with grass growing near the head and tail.\" />",
         "figcaption": "Plate XI.a: White-Footed Prairie-Mouse",
-        "location": "plate11.xhtml#epubcfi(/4/2[plate11]/6[a]/2)"
+        "location": "plate11a.xhtml#epubcfi(/4/2[plate11a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate11b.jpg",
         "alt": "Profile skrtch of a Long-Tailed Jumping Mouse standing up on its hind legs on the ground, with grass growing behind it. In the distance, another specimen in the act of jumping in the air is depicted.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11b.jpg\" aria-labelledby=\"plate11b.figcaption\" alt=\"Profile skrtch of a Long-Tailed Jumping Mouse standing up on its hind legs on the ground, with grass growing behind it. In the distance, another specimen in the act of jumping in the air is depicted.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate11b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile skrtch of a Long-Tailed Jumping Mouse standing up on its hind legs on the ground, with grass growing behind it. In the distance, another specimen in the act of jumping in the air is depicted.\" />",
         "figcaption": "Plate XI.b: Long-Tailed Jumping Mouse",
-        "location": "plate11.xhtml#epubcfi(/4/2[plate11]/10[b]/2)"
+        "location": "plate11b.xhtml#epubcfi(/4/2[plate11b]/4/2)"
       },
       {
         "src": "EPUB/plates/plate12a.jpg",
         "alt": "Profile sketch of a Prairie Meadow-Mouse on the ground with grass growing behind it.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12a.jpg\" aria-labelledby=\"plate12a.figcaption\" alt=\"Profile sketch of a Prairie Meadow-Mouse on the ground with grass growing behind it.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Prairie Meadow-Mouse on the ground with grass growing behind it.\" />",
         "figcaption": "Plate XII.a: Prairie Meadow-Mouse",
-        "location": "plate12.xhtml#epubcfi(/4/2[plate12]/6[a]/2)"
+        "location": "plate12a.xhtml#epubcfi(/4/2[plate12a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate12b.jpg",
         "alt": "Profile sketch of a Wood Meadow-Mouse on the ground with woodland behind it.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12b.jpg\" aria-labelledby=\"plate12b.figcaption\" alt=\"Profile sketch of a Wood Meadow-Mouse on the ground with woodland behind it.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate12b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Wood Meadow-Mouse on the ground with woodland behind it.\" />",
         "figcaption": "Plate XII.b: Wood Meadow-Mouse",
-        "location": "plate12.xhtml#epubcfi(/4/2[plate12]/10[b]/2)"
+        "location": "plate12b.xhtml#epubcfi(/4/2[plate12b]/4[b]/2)"
       },
       {
         "src": "EPUB/plates/plate13a.jpg",
         "alt": "Profile sketch of a male Long-Haired Meadow-Mouse on the ground in meadow grassland.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13a.jpg\" aria-labelledby=\"plate13a.figcaption\" alt=\"Profile sketch of a male Long-Haired Meadow-Mouse on the ground in meadow grassland.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a male Long-Haired Meadow-Mouse on the ground in meadow grassland.\" />",
         "figcaption": "Plate XIII.a: Long-Haired Meadow-Mouse (Male)",
-        "location": "plate13.xhtml#epubcfi(/4/2[plate13]/6[a]/2)"
+        "location": "plate13a.xhtml#epubcfi(/4/2[plate13a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate13b.jpg",
         "alt": "Profile sketch of a female Long-Haired Meadow-Mouse on the ground in meadow grassland.",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13b.jpg\" aria-labelledby=\"plate13b.figcaption\" alt=\"Profile sketch of a female Long-Haired Meadow-Mouse on the ground in meadow grassland.\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate13b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a female Long-Haired Meadow-Mouse on the ground in meadow grassland.\" />",
         "figcaption": "Plate XIII.b: Long-Haired Meadow-Mouse (Female)",
-        "location": "plate13.xhtml#epubcfi(/4/2[plate13]/10[b]/2)"
+        "location": "plate13b.xhtml#epubcfi(/4/2[plate13b]/4/2)"
       },
       {
         "src": "EPUB/plates/plate14a.jpg",
@@ -171,7 +171,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate14a.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Muskrat sitting at the water’s edge.\" />",
         "figcaption": "Plate XIV.a: Muskrat",
-        "location": "plate14a.xhtml#epubcfi(/4/2[plate14]/6/2)"
+        "location": "plate14a.xhtml#epubcfi(/4/2[plate14a]/6/2)"
       },
       {
         "src": "EPUB/plates/plate14b.jpg",
@@ -179,7 +179,7 @@
         "role": null,
         "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"plates/plate14b.jpg\" aria-labelledby=\"plate.figcaption\" alt=\"Profile sketch of a Florida Wood-Rat on the ground amongst low-growth vegetation.\" />",
         "figcaption": "Plate XIV.b: Florida Wood-Rat",
-        "location": "plate14b.xhtml#epubcfi(/4/2[plate14]/4/2)"
+        "location": "plate14b.xhtml#epubcfi(/4/2[plate14b]/4/2)"
       },
       {
         "src": "EPUB/photos/photo01.jpg",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-02T04:17:13Z"
+      "dcterms:modified": "2020-08-02T05:47:06Z"
     },
     "links": {}
   },
@@ -691,8 +691,8 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate5.xhtml",
-        "dct:title": "Plate 5"
+        "url": "plate5a.xhtml",
+        "dct:title": "Plate 5a"
       }
     },
     {
@@ -702,8 +702,8 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate6.xhtml",
-        "dct:title": "Plate 6"
+        "url": "plate5b.xhtml",
+        "dct:title": "Plate 5b"
       }
     },
     {
@@ -713,8 +713,8 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate7.xhtml",
-        "dct:title": "Plate 7"
+        "url": "plate6a.xhtml",
+        "dct:title": "Plate 6a"
       }
     },
     {
@@ -724,8 +724,8 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate8.xhtml",
-        "dct:title": "Plate 8"
+        "url": "plate6b.xhtml",
+        "dct:title": "Plate 6b"
       }
     },
     {
@@ -735,8 +735,8 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate9.xhtml",
-        "dct:title": "Plate 9"
+        "url": "plate7a.xhtml",
+        "dct:title": "Plate 7a"
       }
     },
     {
@@ -746,8 +746,8 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate10.xhtml",
-        "dct:title": "Plate 10"
+        "url": "plate7b.xhtml",
+        "dct:title": "Plate 7b"
       }
     },
     {
@@ -757,8 +757,8 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate11.xhtml",
-        "dct:title": "Plate 11"
+        "url": "plate8a.xhtml",
+        "dct:title": "Plate 8a"
       }
     },
     {
@@ -768,8 +768,8 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate12.xhtml",
-        "dct:title": "Plate 12"
+        "url": "plate8b.xhtml",
+        "dct:title": "Plate 8b"
       }
     },
     {
@@ -779,8 +779,107 @@
       },
       "assertions": [],
       "earl:testSubject": {
-        "url": "plate13.xhtml",
-        "dct:title": "Plate 13"
+        "url": "plate9a.xhtml",
+        "dct:title": "Plate 9a"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate9b.xhtml",
+        "dct:title": "Plate 9b"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate10a.xhtml",
+        "dct:title": "Plate 10a"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate10b.xhtml",
+        "dct:title": "Plate 10b"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate11a.xhtml",
+        "dct:title": "Plate 11a"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate11b.xhtml",
+        "dct:title": "Plate 11b"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate12a.xhtml",
+        "dct:title": "Plate 12a"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate12b.xhtml",
+        "dct:title": "Plate 12b"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate13a.xhtml",
+        "dct:title": "Plate 13a"
+      }
+    },
+    {
+      "@type": "earl:assertion",
+      "earl:result": {
+        "earl:outcome": "pass"
+      },
+      "assertions": [],
+      "earl:testSubject": {
+        "url": "plate13b.xhtml",
+        "dct:title": "Plate 13b"
       }
     },
     {
