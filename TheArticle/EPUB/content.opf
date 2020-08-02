@@ -95,7 +95,8 @@
     <item href="plate5.xhtml" id="plate5" media-type="application/xhtml+xml"/>
     <item href="plates/plate6a.jpg" id="plate6a__jpeg" media-type="image/jpeg"/>
     <item href="plates/plate6b.jpg" id="plate6b__jpeg" media-type="image/jpeg"/>
-    <item href="plate6.xhtml" id="plate6" media-type="application/xhtml+xml"/>
+    <item href="plate6a.xhtml" id="plate6a" media-type="application/xhtml+xml"/>
+    <item href="plate6b.xhtml" id="plate6b" media-type="application/xhtml+xml"/>
     <item href="plates/plate7a.jpg" id="plate7a__jpeg" media-type="image/jpeg"/>
     <item href="plates/plate7b.jpg" id="plate7b__jpeg" media-type="image/jpeg"/>
     <item href="plate7a.xhtml" id="plate7a" media-type="application/xhtml+xml"/>
@@ -234,7 +235,8 @@
     <!-- backmatter -->
     <itemref idref="loi"/>
     <itemref idref="plate5"/>
-    <itemref idref="plate6"/>
+    <itemref idref="plate6a"/>
+    <itemref idref="plate6b"/>
     <itemref idref="plate7a"/>
     <itemref idref="plate7b"/>
     <itemref idref="plate8a"/>
