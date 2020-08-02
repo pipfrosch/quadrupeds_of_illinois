@@ -119,7 +119,8 @@
     <item href="plate13.xhtml" id="plate13" media-type="application/xhtml+xml"/>
     <item href="plates/plate14a.jpg" id="plate14a__jpeg" media-type="image/jpeg"/>
     <item href="plates/plate14b.jpg" id="plate14b__jpeg" media-type="image/jpeg"/>
-    <item href="plate14.xhtml" id="plate14" media-type="application/xhtml+xml"/>
+    <item href="plate14a.xhtml" id="plate14a" media-type="application/xhtml+xml"/>
+    <item href="plate14b.xhtml" id="plate14b" media-type="application/xhtml+xml"/>
   <!-- photos -->
     <item href="photos/photo01.jpg" id="photo1__jpeg" media-type="image/jpeg"/>
     <item href="photo1.xhtml" id="photo1" media-type="application/xhtml+xml"/>
@@ -234,7 +235,8 @@
     <itemref idref="plate11"/>
     <itemref idref="plate12"/>
     <itemref idref="plate13"/>
-    <itemref idref="plate14"/>
+    <itemref idref="plate14a"/>
+    <itemref idref="plate14b"/>
     <itemref idref="glossary"/>
     <itemref idref="citation"/>
     <itemref idref="lop"/>
