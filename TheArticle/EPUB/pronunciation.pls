@@ -3,6 +3,12 @@
 <!-- check pronunciation at http://ipa-reader.xyz/ before adding -->
 <!--   conversions to x-sampa via http://phonetictools.altervista.org/phonverter/ -->
 
+<!-- A -->
+  <lexeme>
+    <grapheme>Audubon</grapheme>
+    <phoneme>ˈɔ dəˌbɒn</phoneme>
+    <phoneme alphabet="x-sampa">"O d@%bQn</phoneme>
+  </lexeme>
 <!-- E -->
   <lexeme>
     <grapheme>estivate</grapheme>
@@ -70,6 +76,17 @@
   </lexeme>
 <!-- U -->
   <!-- uropatagium -->
+<!-- V -->
+  <lexeme>
+    <grapheme>vertebra</grapheme>
+    <phoneme>ˈvɜːtɪbɹə</phoneme>
+    <phoneme alphabet="x-sampa">"v3:tIbr\@</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>vertebrae</grapheme>
+    <phoneme>ˈvɜr tə bɹaɪ</phoneme>
+    <phoneme alphabet="x-sampa">"v3r t@ br\aI</phoneme>
+  </lexeme>
 <!-- Z -->
   <lexeme>
     <grapheme>Zoology</grapheme>
