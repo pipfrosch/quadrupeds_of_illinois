@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/1/2020, 10:47:12 PM",
+  "dct:date": "8/3/2020, 4:23:16 AM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -295,9 +295,9 @@
       },
       {
         "src": "EPUB/photos/Rattus_rattus_01_cropped.jpg",
-        "alt": "Image of a black rat sitting on a bag of grain",
+        "alt": "Image of a taxidermied black rat sitting on a bag of grain",
         "role": null,
-        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"photos/Rattus_rattus_01_cropped.jpg\" alt=\"Image of a black rat sitting on a bag of grain\" aria-labelledby=\"photo23.figcaption\" />",
+        "html": "<img xmlns=\"http://www.w3.org/1999/xhtml\" src=\"photos/Rattus_rattus_01_cropped.jpg\" alt=\"Image of a taxidermied black rat sitting on a bag of grain\" aria-labelledby=\"photo23.figcaption\" />",
         "figcaption": "Rattus rattus",
         "location": "photo23.xhtml#epubcfi(/4/2/4[photo23]/2)"
       },
@@ -327,7 +327,7 @@
       "dc:type": "Natural History",
       "dc:language": "en-US",
       "dc:publisher": "Pipfrosch Press",
-      "dc:date": "2020-08-09",
+      "dc:date": "2020-08-07",
       "dc:creator": "Robert Kennicott",
       "dc:contributor": [
         "Michael A. Peters",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-02T05:47:06Z"
+      "dcterms:modified": "2020-08-03T11:23:11Z"
     },
     "links": {}
   },
