@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/3/2020, 10:45:37 AM",
+  "dct:date": "8/3/2020, 2:06:42 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-03T17:45:32Z"
+      "dcterms:modified": "2020-08-03T21:06:36Z"
     },
     "links": {}
   },
@@ -907,9 +907,72 @@
     {
       "@type": "earl:assertion",
       "earl:result": {
-        "earl:outcome": "pass"
+        "earl:outcome": "fail"
       },
-      "assertions": [],
+      "assertions": [
+        {
+          "@type": "earl:assertion",
+          "earl:result": {
+            "earl:outcome": "fail",
+            "dct:description": "Element has no ARIA role matching its epub:type",
+            "earl:pointer": {
+              "cfi": [
+                "/4/2/4/30[congenial]"
+              ],
+              "css": [
+                "#congenial"
+              ]
+            },
+            "html": "<dt xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"glossdef\" role=\"term\" id=\"congenial\"><dfn>congenial</dfn></dt>"
+          },
+          "earl:assertedBy": "aXe",
+          "earl:mode": "automatic",
+          "earl:test": {
+            "earl:impact": "minor",
+            "dct:title": "epub-type-has-matching-role",
+            "dct:description": "Ensure the element has an ARIA role matching its epub:type",
+            "help": {
+              "url": "http://kb.daisy.org/publishing/docs/html/roles.html",
+              "dct:title": "ARIA role",
+              "dct:description": "ARIA role should be used in addition to epub:type"
+            },
+            "rulesetTags": [
+              "best-practice"
+            ]
+          }
+        },
+        {
+          "@type": "earl:assertion",
+          "earl:result": {
+            "earl:outcome": "fail",
+            "dct:description": "Element has no ARIA role matching its epub:type",
+            "earl:pointer": {
+              "cfi": [
+                "/4/2/4/184[vertebra]"
+              ],
+              "css": [
+                "#vertebra"
+              ]
+            },
+            "html": "<dt xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"glossdef\" role=\"term\" id=\"vertebra\"></dt>"
+          },
+          "earl:assertedBy": "aXe",
+          "earl:mode": "automatic",
+          "earl:test": {
+            "earl:impact": "minor",
+            "dct:title": "epub-type-has-matching-role",
+            "dct:description": "Ensure the element has an ARIA role matching its epub:type",
+            "help": {
+              "url": "http://kb.daisy.org/publishing/docs/html/roles.html",
+              "dct:title": "ARIA role",
+              "dct:description": "ARIA role should be used in addition to epub:type"
+            },
+            "rulesetTags": [
+              "best-practice"
+            ]
+          }
+        }
+      ],
       "earl:testSubject": {
         "url": "glossary.xhtml",
         "dct:title": "Glossary of Terms"
@@ -1148,6 +1211,6 @@
     }
   ],
   "earl:result": {
-    "earl:outcome": "pass"
+    "earl:outcome": "fail"
   }
 }
