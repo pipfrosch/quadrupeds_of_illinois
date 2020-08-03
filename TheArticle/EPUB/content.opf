@@ -6,7 +6,7 @@
     <dc:type>Natural History</dc:type>
     <dc:language>en-US</dc:language>
     <dc:publisher>Pipfrosch Press</dc:publisher>
-    <dc:date>2020-08-09</dc:date>
+    <dc:date>2020-08-07</dc:date>
     <dc:creator id="author0">Robert Kennicott</dc:creator>
     <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
     <dc:contributor id="editor0">Michael A. Peters</dc:contributor>
