@@ -3,7 +3,7 @@
   "@context": "http://daisy.github.io/ace/ace-report-1.0.jsonld",
   "dct:title": "Ace Report",
   "dct:description": "Report on automated accessibility checks for EPUB",
-  "dct:date": "8/3/2020, 7:36:52 PM",
+  "dct:date": "8/3/2020, 7:38:15 PM",
   "earl:assertedBy": {
     "@type": "earl:software",
     "doap:name": "DAISY Ace",
@@ -366,7 +366,7 @@
         "noSoundHazard",
         "noMotionSimulationHazard"
       ],
-      "dcterms:modified": "2020-08-04T02:36:47Z"
+      "dcterms:modified": "2020-08-04T02:38:10Z"
     },
     "links": {}
   },
@@ -907,41 +907,9 @@
     {
       "@type": "earl:assertion",
       "earl:result": {
-        "earl:outcome": "fail"
+        "earl:outcome": "pass"
       },
-      "assertions": [
-        {
-          "@type": "earl:assertion",
-          "earl:result": {
-            "earl:outcome": "fail",
-            "dct:description": "Element has no ARIA role matching its epub:type",
-            "earl:pointer": {
-              "cfi": [
-                "/4/2/4/194"
-              ],
-              "css": [
-                "dd:nth-child(97)"
-              ]
-            },
-            "html": "<dd xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\" epub:type=\"glossref\">"
-          },
-          "earl:assertedBy": "aXe",
-          "earl:mode": "automatic",
-          "earl:test": {
-            "earl:impact": "minor",
-            "dct:title": "epub-type-has-matching-role",
-            "dct:description": "Ensure the element has an ARIA role matching its epub:type",
-            "help": {
-              "url": "http://kb.daisy.org/publishing/docs/html/roles.html",
-              "dct:title": "ARIA role",
-              "dct:description": "ARIA role should be used in addition to epub:type"
-            },
-            "rulesetTags": [
-              "best-practice"
-            ]
-          }
-        }
-      ],
+      "assertions": [],
       "earl:testSubject": {
         "url": "glossary.xhtml",
         "dct:title": "Glossary of Terms"
@@ -1180,6 +1148,6 @@
     }
   ],
   "earl:result": {
-    "earl:outcome": "fail"
+    "earl:outcome": "pass"
   }
 }
